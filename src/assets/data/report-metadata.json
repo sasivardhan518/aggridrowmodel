@@ -1,0 +1,272 @@
+{
+  "PrimaryDimension": "MARKET",
+  "CurrentHier": null,
+  "userFriendlyName": "a-nkatta",
+  "userLastAccessed": "03/29/2018 01:53 PM",
+  "Domains": [{
+    "Dimensions": [{
+      "Name": "PRODUCT",
+      "Description": "Product",
+      "CurrentLevelAttribName": "DUMMY_PRODUCT",
+      "Hierarchies": [],
+      "Attributes": [],
+      "PageFilter": null,
+      "IsLocked": false,
+      "IsDimensionGroupLocked": false,
+      "IsRotateLocked": false,
+      "IsFilterLocked": false,
+      "GroupByHierName": "",
+      "TopXInfo": null,
+      "CanFilterOnlySingleAttribute": false,
+      "IsTabularDimension": false,
+      "Stubs": [{
+        "Id": "64632",
+        "Name": "PRODUCT Stub",
+        "GroupByAttribs": ["DUMMY_PRODUCT"],
+        "DummyAttribDescription": "Total Products",
+        "CurrentGroupedAttrib": "DUMMY_PRODUCT",
+        "ReportFilters": {},
+        "DrilldownFilters": {},
+        "StubFilters": []
+      }],
+      "DummyAttribName": "DUMMY_PRODUCT",
+      "StubAttribName": "PRODUCT_STUB",
+      "LockedAttribs": [],
+      "LanguageMap": {
+        "Description": {
+          "en-US": "Product"
+        }
+      }
+    }, {
+      "Name": "MARKET",
+      "Description": "Market",
+      "CurrentLevelAttribName": "PMI_BUSINESS_UNIT",
+      "Hierarchies": [],
+      "Attributes": [],
+      "PageFilter": null,
+      "IsLocked": false,
+      "IsDimensionGroupLocked": false,
+      "IsRotateLocked": false,
+      "IsFilterLocked": false,
+      "GroupByHierName": "",
+      "TopXInfo": null,
+      "CanFilterOnlySingleAttribute": false,
+      "IsTabularDimension": false,
+      "Stubs": [{
+        "Id": "64633",
+        "Name": "MARKET Stub",
+        "GroupByAttribs": ["PMI_BUSINESS_UNIT"],
+        "DummyAttribDescription": "Total Market",
+        "CurrentGroupedAttrib": "PMI_BUSINESS_UNIT",
+        "ReportFilters": {},
+        "DrilldownFilters": {},
+        "StubFilters": []
+      }],
+      "DummyAttribName": "DUMMY_MARKET",
+      "StubAttribName": "MARKET_STUB",
+      "LockedAttribs": [],
+      "LanguageMap": {
+        "Description": {
+          "en-US": "Market"
+        }
+      }
+    }, {
+      "Name": "TIME",
+      "Description": "Time",
+      "CurrentLevelAttribName": "RELATIVE_DAY",
+      "Hierarchies": [],
+      "Attributes": [],
+      "PageFilter": null,
+      "IsLocked": false,
+      "IsDimensionGroupLocked": false,
+      "IsRotateLocked": false,
+      "IsFilterLocked": false,
+      "GroupByHierName": "",
+      "TopXInfo": null,
+      "CanFilterOnlySingleAttribute": false,
+      "IsTabularDimension": false,
+      "Stubs": [{
+        "Id": "64634",
+        "Name": "TIME Stub",
+        "GroupByAttribs": ["RELATIVE_DAY"],
+        "DummyAttribDescription": "Total Periods",
+        "CurrentGroupedAttrib": "RELATIVE_DAY",
+        "ReportFilters": {
+          "RELATIVE_DAY": [{
+            "RELATIVE_DAY": "0",
+            "RELATIVE_DAY_DESC": "13/07/2016",
+            "Name": "13/07/2016"
+          }]
+        },
+        "DrilldownFilters": {},
+        "StubFilters": []
+      }],
+      "DummyAttribName": "DUMMY_TIME",
+      "StubAttribName": "TIME_STUB",
+      "LockedAttribs": [],
+      "LanguageMap": {
+        "Description": {
+          "en-US": "Time"
+        }
+      }
+    }],
+    "ActiveOrderedCols": ["UNITS_NR_CY"],
+    "Packages": null,
+    "SortInfo": {
+      "Key": null,
+      "Value": false
+    },
+    "Name": "PMIRUSSIA",
+    "Description": "DDE",
+    "AnalyticalReportName": null,
+    "CurrentView": "GeoMap",
+    "ActiveAttrib": "PMI_BUSINESS_UNIT_NAME",
+    "ActiveMeasure": "UNITS_NR_CY",
+    "ShapeFileVersion": "1",
+    "IsExtentModificationRequired": false,
+    "MapCenterCoordinates": "{ \"latitude\": 62.101577, \"longitude\": 105.329101, \"radius\": 15.183230932883845 }",
+    "EnableCustomFormat": false,
+    "CustomFormatProperties": "{ \"NumericSeperator\": \".\", \"DecimalSeperator\": \",\" }",
+    "MaxSheetLimit": 0,
+    "CurrencySymbol": null,
+    "IsChartEnabledForStandardReports": true,
+    "IsMetricSpecific": true,
+    "DefaultFunctionalType": "Explore DDE",
+    "IsLabelVisible": true,
+    "IsLabelHidden": false,
+    "IsTransparent": false,
+    "IsScaleApplied": false,
+    "UseFixedColors": false,
+    "ZoomExtents": "{\"top\":0.1507407327482762,\"left\":0.49786758289270105,\"width\":0.2013178131474107,\"height\":0.2013178131474107,\"mapHeight\":637,\"mapWidth\":1366}",
+    "IsToolTipRequired": false,
+    "IsMapBackgroundEnabled": true,
+    "currentDisplayAttribs": [],
+    "GridSortInfo": [{
+      "ColumnName": "UNITS_NR_CY",
+      "SortOrder": "desc",
+      "IsFlip": false
+    }],
+    "NestedGridSortInfo": null,
+    "HiddenNestedColumns": null,
+    "IsMeasureLocked": false,
+    "ChartTitle": null,
+    "ChartxAxisLabel": null,
+    "ChartyAxisLabel": null,
+    "MappedAttribNameList": null,
+    "LatestPeriod": "07/13/2016",
+    "ChartGraphColor": null,
+    "TargetForMeasure": [],
+    "BiScaleChartProperties": null,
+    "BridgeChartProperties": null,
+    "LineBarChartProperties": null,
+    "BubbleChartProperties": null,
+    "TargetChartProperties": null,
+    "UserDefinedTargets": [],
+    "ChartSettings": [],
+    "TileChartProperties": null,
+    "WordChartProperties": null,
+    "IsContextFiltersIgnored": false,
+    "ContextFilters": {
+      "MFG CLIENT GEO": [{
+        "MFG CLIENT": 1408,
+        "Name": "1408"
+      }]
+    },
+    "MaxAllowedAnalyticalStubs": 5,
+    "isColumnTotalsApplied": false,
+    "isPeriodApplied": false,
+    "appliedPeriod": null,
+    "isPeriodSelectorWidgetVisible": false,
+    "LanguageMap": {
+      "Description": {
+        "en-US": "DDE"
+      }
+    }
+  }],
+  "Measures": {
+    "PMIRUSSIA": [{
+      "Name": "UNITS_NR_CY",
+      "Description": "Volume(Sticks)-1D-CY",
+      "DataType": "Numeric",
+      "DefaultChartType": "Bar",
+      "Metric": "Volume(Sticks)",
+      "Duration": "1D",
+      "Versus": "CY",
+      "Format": "#,#0.00",
+      "ConfigName": "UNITS_NR_CY_PMIRUSSIA",
+      "DomainName": "PMIRUSSIA",
+      "DicAdhocProperties": {
+        "Vision": "true",
+        "FOLDINGDESCRIPTION": "TOTAL UNITS CY",
+        "DISPLAYID": "-1",
+        "Folder": "Units"
+      },
+      "LanguageMap": {
+        "Description": {
+          "en-US": "Volume(Sticks)-1D-CY"
+        },
+        "Metric": {
+          "en-US": "Volume(Sticks)"
+        },
+        "Duration": {
+          "en-US": "1D"
+        },
+        "Versus": {
+          "en-US": "CY"
+        },
+        "FOLDER": {
+          "en-US": "Units"
+        },
+        "FOLDINGDESCRIPTION": {
+          "en-US": "TOTAL UNITS CY"
+        }
+      }
+    }]
+  },
+  "MeasuresCustomDesc": {},
+  "DefaultView": null,
+  "ReportType": "Explore",
+  "DataGrid": null,
+  "Highlighter": null,
+  "FunctionalRptTypes": null,
+  "ReportID": "27794",
+  "ReportName": "test save",
+  "isFirstTime": false,
+  "FlipInfo": null,
+  "LockedReportActions": [],
+  "PublishLockedReportActions": [],
+  "PublishLockedDimensionAttributes": [],
+  "ReportCustomColumns": [],
+  "ReportCustomValues": [],
+  "ReportFunctionValues": [],
+  "ColumnFilters": [],
+  "NestedGridInfo": null,
+  "IsNestedView": false,
+  "viewFilters": [],
+  "isExport": false,
+  "typesOfReports": [],
+  "SelectedUserGroups": [],
+  "selectedUsersList": [{
+    "ReportId": "27794",
+    "UserId": "a-nkatta",
+    "IsEdit": "N"
+  }],
+  "IsOffLineRequest": false,
+  "userInfo": null,
+  "ColorConditions": [],
+  "FoldingDimension": null,
+  "CurrentYear": null,
+  "TopXInfo": null,
+  "IgnoreContextFilters": false,
+  "MetaDataLastUpdatedOn": null,
+  "IsMergeCubeReport": false,
+  "DefaultDomainName": "PMIRUSSIA",
+  "ClientRequestId": null,
+  "IsFilterVariableDisabled": false,
+  "LinkReportInfo": [],
+  "isRowTotalsApplied": false,
+  "isColumnTotalsApplied": false,
+  "FootNote": "",
+  "IsChartFromNestedMode": false,
+  "LanguageMap": null
+}

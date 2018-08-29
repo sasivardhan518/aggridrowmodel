@@ -1,0 +1,147 @@
+{
+  "pages": {
+    "hierarchies": [
+      {
+        "attributes": {
+          "CATEGORY": {
+            "isGroup": true,
+            "description": "Category",
+            "outputFilters": [
+              {
+                "CATEGORY": 1
+              }
+            ]
+          },
+          "SUBCATEGORY": {
+            "description": "Sub Category",
+            "outputFilters": [
+              {
+                "SUBCATEGORY": 10
+              }
+            ]
+          }
+        },
+        "type": "nested",
+        "order": [
+          "CATEGORY",
+          "SUBCATEGORY"
+        ]
+      },
+      {
+        "attributes": {
+          "BRANDVARIANT": {
+            "description": "Brand Variant",
+            "outputFilters": [
+              {
+                "BRANDVARIANT": 10
+              }
+            ]
+          },
+          "MATERIALID": {
+            "description": "Material Name",
+            "outputFilters": [
+              {
+                "MATERIALID": 100
+              }
+            ]
+          }
+        },
+        "type": "nested",
+        "order": [
+          "BRANDVARIANT",
+          "MATERIALID"
+        ]
+      }
+    ]
+  },
+  "rows": {
+    "hierarchies": [
+      {
+        "attributes": {
+          "STATE": {
+            "description": "State",
+            "outputFilters": [
+              {
+                "STATE": 12
+              }
+            ]
+          },
+          "STORE": {
+            "description": "Store",
+            "outputFilters": [
+              {
+                "STORE": 1001
+              }
+            ]
+          }
+        },
+        "type": "replacement",
+        "order": [
+          "STATE",
+          "STORE"
+        ],
+        "currentAttribute": "STORE"
+      }
+    ]
+  },
+  "filters": {
+    "attributes": {
+      "MANUFACTURER": {
+        "isGroup": true,
+        "description": "Manufacturer",
+        "appliedLists": [
+          {
+            "id": 1,
+            "name": "Promoted Manufacturers",
+			"quickFilter": true
+          }
+        ],
+        "inputFilters": [
+          {
+            "MANUFACTURER": 12
+          }
+        ]
+      },
+      "QUARTER": {
+        "description": "Quarter",
+		"quickFilter": false,
+        "appliedLists": [],
+        "inputFilters": [
+          {
+            "QUARTER": 1
+          }
+        ]
+      }
+    },
+    "type": "None"
+  },
+  "columns": {
+    "hierarchies": [
+      {
+        "attributes": {
+          "MONTH": {
+            "description": "Month",
+            "outputFilters": [
+              {
+                "MONTH": 5
+              }
+            ]
+          },
+          "DATE": {
+            "description": "Date",
+            "outputFilters": [
+              {
+                "DATE": 10
+              }
+            ]
+          }
+        },
+        "type": "Tabular",
+        "order": [
+          "MONTH",
+          "DATE"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+<!-- <div> Columns
+  <button (click)="changeFormat('nested', 'columns')">Nested</button>
+  <button (click)="changeFormat('replacement', 'columns')">Replacement</button>
+  <button (click)="changeFormat('tabular', 'columns')">Tabular</button>
+  <button (click)="stateOfGrid()">State of Grid</button>
+</div> -->
+
+<!-- <p>{{comments}}</p> -->
+
+<label class="">Rows: </label>
+<button type="button" class="btn btn-success" [disabled]="true">Nested</button>
+
+<label class="">Columns: </label>
+<div class="btn-group">
+
+  <label class="btn btn-info" (click)="changeFormat('nested', 'columns')" [(ngModel)]="columnBehaviour" btnRadio="nested" tabindex="0"
+    role="button">Nested</label>
+  <label class="btn btn-info" (click)="changeFormat('replacement', 'columns')" [(ngModel)]="columnBehaviour" btnRadio="replacement"
+    tabindex="0" role="button">Replacement</label>
+  <label class="btn btn-info" (click)="changeFormat('tabular', 'columns')" [(ngModel)]="columnBehaviour" btnRadio="tabular"
+    tabindex="0" role="button">Tabular</label>
+</div>
+
+
+
+<div id="format"></div>
+
+<div style="width: 100%; height: 500px;">
+  <ag-grid-angular #agGrid style="width: 100%; height: 100%;" id="myGrid" class="ag-theme-balham" [columnDefs]="columnDefs"
+    [autoGroupColumnDef]="autoGroupColumnDef" [defaultColDef]="defaultColDef" [enableColResize]="true" [rowModelType]="rowModelType"
+    [enableFilter]="false" [animateRows]="true" [debug]="true" [enableSorting]="false" [enableRangeSelection]="true" [suppressAggFuncInHeader]="true"
+    [maxConcurrentDatasourceRequests]="maxConcurrentDatasourceRequests" [cacheBlockSize]="cacheBlockSize" [maxBlocksInCache]="maxBlocksInCache"
+    [icons]="icons" (columnGroupOpened)="columnGroupOpened($event)" (rowGroupOpened)="rowGroupOpened($event)" (gridReady)="onGridReady($event)"
+    [showToolPanel]="false" [toolPanelSuppressSideButtons]="true" [suppressContextMenu]="true" [groupDefaultExpanded]="true"
+    [frameworkComponents]="frameworkComponents" [groupSuppressAutoColumn]="true" [groupSelectsChildren]="true">
+  </ag-grid-angular>
+
+</div>

@@ -1,0 +1,48 @@
+<!--<div style="text-align:center">
+  <h1>
+    {{ title }}!
+  </h1>
+</div>
+
+
+ <div>
+  <tabset>
+    <tab heading="Basic Grid" id="tab1">
+      <br>
+      <app-format2></app-format2>
+    </tab>
+    <tab heading="Nested Grid">
+      <br>
+      <app-format4></app-format4>
+    </tab>
+    <tab heading="Nested Grid 2">
+      <br>
+      <app-format3></app-format3>
+    </tab>
+  </tabset>
+</div> -->
+
+
+
+<div style="text-align:center">
+  <h1>
+    Welcome to {{ title }}!
+  </h1>
+</div>
+
+<nav class="navbar navbar-default">
+  <ul class="nav navbar-nav">
+    <li routerLinkActive="active">
+      <a [routerLink]="['/format2']">InMemory RowModel (One hierarchy in Rows and columns)</a>
+    </li>
+    <li routerLinkActive="active">
+      <a [routerLink]="['/format3']">Enterprise RowModel (One hierarchy in Rows and columns)</a>
+    </li>
+    <li routerLinkActive="active">
+      <a [routerLink]="['/format4']">Enterprise RowModel (Couples of Hierarchies in Rows and One Hierarchy in Columns)</a>
+    </li>
+  </ul>
+</nav>
+
+
+<router-outlet></router-outlet>

@@ -1,0 +1,7748 @@
+{
+  "resultData": {
+    "columnMap": {
+      "DOLLARS": 0,
+      "REGION": 1,
+      "SUB REGION": 2,
+      "STATE": 3,
+      "CITY_SIMPLE": 4,
+      "RELATIVE WEEKS DESC": 5
+    },
+    "_data": [
+      [
+        3435.8,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "MAYFIELD",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        3375.74,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "EAST ROCHESTER",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        42184.24,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "BAYSIDE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        53582.33,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "MOUNT VERNON",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        6491.62,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "WADING RIVER",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        23809.48,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "ROSLYN HEIGHTS",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        6694.42,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "TICONDEROGA",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        5386.13,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "DELMAR",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        9047.64,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "HYDE PARK",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        4290.29,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "PORT JERVIS",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        2393.43,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "REDWOOD",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        30202.55,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "PLAINVIEW",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        85183.55,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "TROY",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        346.35,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "WESTERNVILLE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        29335.69,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "CLINTON",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        5641.77,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "FORT MONTGOMERY",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        3731.15,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "PINE HILL",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        331.83,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "FREWSBURG",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        34235.42,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "LATHAM",
+        "2014-12-20T00:00:00"
+      ],
+      [-30.86,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "RYE BROOK",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        7138.24,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "PAWLING",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        3639.33,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "OTISVILLE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        25881.83,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "NORTHPORT",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        43765.23,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "SEAFORD",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        3782.4,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "SARATOGA SPGS",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        2295.03,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "SHELTER IS HT",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        6395.49,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "LOCUST VALLEY",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        447538.79,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "STATEN ISLAND",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        773.78,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "ROMULUS",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        5247.82,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "BATAVIA",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        12351.38,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "VERONA",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        107883.14,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "NEW ROCHELLE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        17299.16,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "NORTH BELLMORE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        2326.68,
+        "WEST",
+        "Pacific",
+        "CA",
+        "NORTH HOLLYWOOD",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        6005.19,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "BREESPORT",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        25226.25,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "SAINT JAMES",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        97881.87,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "ASTORIA",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        2981.83,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "STEWART MANOR",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        2698.9,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "NORTH SYRACUSE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        46149.97,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "RIVERHEAD",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        17545.54,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "GLENDALE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        14293.67,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "GLEN HEAD",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        33585.66,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "OSWEGO",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        57780.89,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "HOLBROOK",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        8777.86,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "IRVINGTON",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        91873.62,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "BAY SHORE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        24237.06,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "ENDICOTT",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        950.97,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "DANNEMORA",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        129878.09,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "LINDENHURST",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        3981.05,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "DOWNSVILLE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        14390.78,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "INWOOD",
+        "2014-12-20T00:00:00"
+      ],
+      [-5,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "SOUTH OZONE PAR",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        80052.46,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "HUNTINGTON",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        13011.19,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "RICHMONDVILLE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        59996.28,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "FLORAL PARK",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        20842.59,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "BLOOMINGBURG",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        8963.57,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "BURDETT",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        1418.42,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "FORT EDWARD",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        17856.49,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "MASSAPEQUA PARK",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        8498.36,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "GREENWOOD LAKE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        27971.55,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "EASTCHESTER",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        1235.08,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "SAYVILLE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        16391.14,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "RHINEBECK",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        311.76,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "PORTVILLE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        13962.53,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "WEST HARRISON",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        5775.47,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "SHELTER ISLAND",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        36170.88,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "EAST MEADOW",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        1513.26,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "ACCORD",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        856.57,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "HOGANSBURG",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        3119.83,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "MOHEGAN LAKE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        23276.9,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "MONROE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        14073.21,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "MIDDLE VILLAGE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        30405.85,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "NEW WINDSOR",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        9115.66,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "BOLIVAR",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        18784.07,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "HOPEWELL JCT",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        7328.43,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "PORT JEFF STA",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        70534.45,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "MASSAPEQUA",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        19823.91,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "PORT JEFFERSON STATION",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        9020.79,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "LITTLE FALLS",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        19723.86,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "EAST ISLIP",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        9866.23,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "BRIDGEHAMPTON",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        12034.54,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "COLLEGE POINT",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        6961.99,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "CONKLIN",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        4681.8,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "MATTITUCK",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        1602.1,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "SKANEATELES",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        13379.88,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "ORISKANY",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        9793.56,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "CAYUTA",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        19318,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "NORTH BALDWIN",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        854689.28,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "NEW YORK",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        55966.89,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "WESTBURY",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        548.94,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "HAMBURG",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        8809.5,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "SCHOHARIE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        4699.09,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "EAST ATLANTIC BEACH",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        3936.36,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "HAMMONDSPORT",
+        "2014-12-20T00:00:00"
+      ],
+      [-11.75,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "SOLVAY",
+        "2014-12-20T00:00:00"
+      ],
+      [-234.18,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "WESTHAMPTON",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        2650.27,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "FAIRPORT",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        630269.69,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "BRONX",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        4614.29,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "SLATE HILL",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        9687.96,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "PENN YAN",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        118236.42,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "SCHENECTADY",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        72285.86,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "NEWBURGH",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        23737.67,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "SHIRLEY",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        53303.63,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "CONGERS",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        8682.22,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "STAR LAKE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        105712.08,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "RONKONKOMA",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        812.78,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "CLAYTON",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        932,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "VALHALLA",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        3518.46,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "NESCONSET",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        1933.39,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "MALONE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        24881.59,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "SYOSSET",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        432.2,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "BELLEVILLE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        11323.38,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "WESTHAMPTON BEACH",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        39667.1,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "COMMACK",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        26674.15,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "CALVERTON",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        1682.38,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "ALTMAR",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        2874.93,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "COLD SPRING HARBOR",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        13776.76,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "DEWITT",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        198.38,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "BARRYVILLE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        13350.21,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "FAYETTEVILLE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        1600.94,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "POUND RIDGE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        6799.79,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "WESTERLO",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        15282.3,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "GOSHEN",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        56951.73,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "ITHACA",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        27604.76,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "OCEANSIDE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        6325.01,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "CAMPBELL",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        9416.28,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "VOORHEESVILLE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        3106.22,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "LAKEVILLE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        1206.55,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "WARRENSBURG",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        2229.6,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "WAPPINGER FALLS",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        1794.24,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "LAKE RONKONKOMA",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        17531.51,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "BALLSTON SPA",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        3353.01,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "JOHNSTOWN",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        1645.53,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "LAKE PLACID",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        18815.05,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "CANANDAIGUA",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        370.4,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "MALDEN ON HUDSON",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        3691.44,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "NISKAYUNA",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        32446.58,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "PATCHOGUE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        1938.56,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "FULTONVILLE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        54870.89,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "HEMPSTEAD",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        3165.04,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "VERBANK",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        15619.9,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "EAST SETAUKET",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        12866.26,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "AVON",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        11695.22,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "QUEENS VILLAGE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        3228.43,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "LAKE GROVE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        22182.84,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "HUDSON",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        59770.7,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "BETHPAGE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        11220.18,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "LITTLE NECK",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        5002.5,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "DOLGEVILLE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        21572.36,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "WALDEN",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        4436.04,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "DIX HILLS",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        38813.2,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "MAMARONECK",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        29870.13,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "HUNTINGTON STATION",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        2506.85,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "GLEN OAKS",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        4568.61,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "LOUDONVILLE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        11586.05,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "STORMVILLE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        7281.54,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "BUCHANAN",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        30117.21,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "FRESH MEADOWS",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        8540.22,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "NEWARK",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        44996.57,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "GARDEN CITY",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        16593.15,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "WARWICK",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        19520.84,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "SOMERS",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        8340.31,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "BLAUVELT",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        20860.46,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "CATSKILL",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        7880.38,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "MOUNT UPTON",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        66476.81,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "KINGSTON",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        4637.35,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "LAUREL",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        5128.15,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "SEA CLIFF",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        317.71,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "MASSENA",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        4879.75,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "REMSEN",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        4463.35,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "OAKDALE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        11641.38,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "POTTERSVILLE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        4206.39,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "JERICHO",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        1984.97,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "CHAMPLAIN",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        15185.43,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "BLUE POINT",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        22861.93,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "FULTON",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        38572.5,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "WANTAGH",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        559700.92,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "LONG ISLAND CITY",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        2922.1,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "DE",
+        "LAUREL",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        5182.69,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "TAPPAN",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        25023.07,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "BALDWIN",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        36733.92,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "LONG BEACH",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        51268.59,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "ONTARIO",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        15735.03,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "ONEONTA",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        52818.09,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "BUFFALO",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        27010.27,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "NEW HARTFORD",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        24580.55,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "WATERVLIET",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        3638.71,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "HAMILTON",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        7587.71,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "SYLVAN BEACH",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        1737.68,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "NEW LEBANON",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        2982.38,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "SODUS",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        4030.22,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "NIVERVILLE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        22635.98,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "SCARSDALE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        1963.22,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "PURCHASE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        3910.05,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "WOODRIDGE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        31633.17,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "AMITYVILLE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        3365.55,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "WEST CHAZY",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        119571.97,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "UTICA",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        1132.51,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "SACKETS HARBOR",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        184216.67,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "JACKSON HEIGHTS",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        41083.57,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "OSSINING",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        2519.63,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "MAYBROOK",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        11118.6,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "FLANDERS",
+        "2014-12-20T00:00:00"
+      ],
+      [-1058.77,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "MARLBORO",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        1913.4,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "LAURELTON",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        2300.05,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "LINCOLNDALE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        3470.46,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "SOUTHFIELDS",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        43362.9,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "FOREST HILLS",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        3208.77,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "INDIAN LAKE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        2420.2,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "NASSAU",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        35517.69,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "COPIAGUE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        10630.2,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "BARNEVELD",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        3838.39,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "CHATHAM",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        404.47,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "LONG ISLAND CTY",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        29618.58,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "STONY POINT",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        147853.73,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "WHITE PLAINS",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        11671.7,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "ROCKY POINT",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        15576.94,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "BALDWINSVILLE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        5248.74,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "SOUTHAMPTON",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        51814.53,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "BEACON",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        252.55,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "E GREENBUSH",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        19864.28,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "NEW PALTZ",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        18479.24,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "WYNANTSKILL",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        1598.7,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "CHESTNUT RIDGE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        13238.45,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "MOUNT SINAI",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        75446.79,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "BREWSTER",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        12961.93,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "HORNELL",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        13643.78,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "RED HOOK",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        4892.03,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "OGDENSBURG",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        18955.63,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "MOUNT KISCO",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        11428.63,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "COPAKE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        1675.79,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "COPENHAGEN",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        168861.34,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "MASPETH",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        86631.11,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "PORT CHESTER",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        11463.89,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "MANHASSET",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        18203.66,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "LAGRANGEVILLE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        3997.05,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "ATTICA",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        19101.3,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "MONSEY",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        16005.67,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "UNIONDALE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        1321.1,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "CAPE VINCENT",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        18690.96,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "SMITHTOWN",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        2948.87,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "BELLPORT",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        3403.33,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "AIRMONT",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        6379.01,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "MATTYDALE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        39243.92,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "ILION",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        14163.39,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "MAHOPAC FALLS",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        5834.29,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "DUANESBURG",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        296.59,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "HUDSON FALLS",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        40462.17,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "MERRICK",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        12804.01,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "GARNERVILLE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        2226.69,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "WEST COXSACKIE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        15004.51,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "OAKLAND GARDENS",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        462.89,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "LONG LAKE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        32144.69,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "NYACK",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        32017.55,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "WAPPINGERS FALLS",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        52040.76,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "CORTLANDT MANOR",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        310.83,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "STOW",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        13358.19,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "BOONVILLE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        13657.26,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "CORONA",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        10258.5,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "DUNDEE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        3250.62,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "DALTON",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        8146.3,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "BLOOMFIELD",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        22481.79,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "BREWERTON",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        51307.45,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "LEVITTOWN",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        33348.66,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "BRENTWOOD",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        15557.51,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "BALDWIN PLACE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        5289.2,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "CONSTABLEVILLE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        1630.3,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "STAATSBURG",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        1052.93,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "ELIZABETHTOWN",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        21757.76,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "CARLE PLACE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        4310.12,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "CAIRO",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        17367.66,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "ENDWELL",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        2813.67,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "POESTENKILL",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        5723.48,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "KEESVILLE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        11780.32,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "HAVERSTRAW",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        990.03,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "SCIO",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        18620.86,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "NORWICH",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        2700.34,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "ALFRED",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        246.14,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "DEXTER",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        2915.48,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "BATH",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        29836.1,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "HARRISON",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        2094.83,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "SOUTH GLENS FALLS",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        5478.89,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "FLORIDA",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        2122.79,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "CAMBRIA HEIGHTS",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        3259.46,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "LAFARGEVILLE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        53057.72,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "HERKIMER",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        5606,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "NEW HAMPTON",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        30260.77,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "CORNING",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        50097.53,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "GREAT NECK",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        293.23,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "SANDY CREEK",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        3301.25,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "BURLINGHAM",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        5309.24,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "ARDSLEY",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        13607.52,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "ROCKAWAY PARK",
+        "2014-12-20T00:00:00"
+      ],
+      [-88.27,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "EDDYVILLE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        3547.73,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "CHAPPAQUA",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        11334.45,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "CUTCHOGUE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        4586.96,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "QUEENSBURY",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        7886.32,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "POINT LOOKOUT",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        7963.33,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "MASTIC BEACH",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        14298.8,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "TULLY",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        14922.68,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "SANGERFIELD",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        2314.17,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "DE",
+        "NEWARK",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        24977.01,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "PORT WASHINGTON",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        684.16,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "KEESEVILLE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        4181.22,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "NEWFIELD",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        3876.93,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "MACEDON",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        8849.82,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "RAVENA",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        33140.46,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "OVID",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        16391.97,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "GARRISON",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        5533.77,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "PALENVILLE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        6731.3,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "LIBERTY",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        273252.01,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "ROCHESTER",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        17814.27,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "SUFFERN",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        30725.9,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "ELMIRA",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        4989.39,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "GREEN ISLAND",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        909,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "SCHROON LAKE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        4795.42,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "BOICEVILLE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        1554.86,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "CENTERPORT",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        2224.49,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "WHITEHALL",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        16202.79,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "BABYLON",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        2578.26,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "HASTINGS ON HUDSON",
+        "2014-12-20T00:00:00"
+      ],
+      [-1988.62,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "OCEAN BEACH",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        4783.53,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "SCOTTSVILLE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        11712.78,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "SOUTH OZONE PARK",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        2813.79,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "PATTERSONVILLE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        2667.36,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "SLEEPY HOLLOW",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        7781.92,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "RICHLAND",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        1732.3,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "GARRATTSVILLE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        2937.89,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "COXSACKIE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        9315.73,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "PEARL RIVER",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        576.02,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "ESPERANCE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        3596.73,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "CAMPBELL HALL",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        2098.97,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "SWAN LAKE",
+        "2014-12-20T00:00:00"
+      ],
+      [-6,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "BARDONIA",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        932.18,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "MARYLAND",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        16180.57,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "WEST ISLIP",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        22869.27,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "MEDFORD",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        5461.09,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "HIGHLAND FALLS",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        15401.37,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "PAINTED POST",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        62617.6,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "MINEOLA",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        15081.89,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "SARATOGA SPRINGS",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        16466.16,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "RIDGEWOOD",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        2657.32,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "HARTSDALE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        90950.13,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "VALLEY STREAM",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        20112.96,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "WEEDSPORT",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        15456.24,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "MONTGOMERY",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        411.98,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "WEST HENRIETTA",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        9325.58,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "WEST NYACK",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        13281.95,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "FAR ROCKAWAY",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        17211.87,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "MOHAWK",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        34064.83,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "PHOENIX",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        6185.53,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "BROOKHAVEN",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        451.48,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "STITTVILLE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        2980.83,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "MOUNT MORRIS",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        10604.72,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "CEDARHURST",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        14129.39,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "EAST HAMPTON",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        5180.06,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "AMENIA",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        1245.25,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "LOCKPORT",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        1414.84,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "ROOSEVELT ISLAN",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        542.41,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "WASHINGTON MILLS",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        4535.83,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "GREENWICH",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        1523747.17,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "BROOKLYN",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        47121.1,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "FREEPORT",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        145.26,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "TANNERSVILLE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        95590.12,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "WATERTOWN",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        634.64,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "WEBSTER",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        818.49,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "PITTSFORD",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        15793.87,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "CICERO",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        2491.43,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "ROOSEVELT ISL",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        7458.79,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "PINE VALLEY",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        6721.37,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "MILFORD",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        6767.81,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "CHESTER",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        3517.67,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "SUNNYSIDE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        3096,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "WASHINGTONVILLE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        23807.99,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "ROCKVILLE CENTRE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        13930.02,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "WILLISTON PARK",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        9573.83,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "LAKE GEORGE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        1644,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "WESTBROOKVILLE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        12623.54,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "SOUTH SALEM",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        4680.3,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "GLENVILLE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        42586.92,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "WHITESTONE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        4585.81,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "AMAGANSETT",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        5949.01,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "SCHUYLER LAKE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        5804.6,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "WALKER VALLEY",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        2042.5,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "W HAVERSTRAW",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        28542.05,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "PENFIELD",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        12097.27,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "NICHOLS",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        3501.17,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "STANFORDVILLE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        43768.58,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "DEER PARK",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        18953.43,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "GREENPORT",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        21418.68,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "CONSTANTIA",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        50360.74,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "BINGHAMTON",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        5033.86,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "AMHERST",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        675.29,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "CUDDEBACKVILLE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        2829.3,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "SCHAGHTICOKE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        10278.75,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "CROTON FALLS",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        1696.74,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "MECHANICVILLE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        4036.01,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "ALDER CREEK",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        5359.76,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "VAN ETTEN",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        2398.85,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "MIDDLEBURGH",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        17922.28,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "WILLIAMSON",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        10794.32,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "VALLEY COTTAGE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        2327.05,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "WELLSBURG",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        12454.97,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "CROTON ON HUDSON",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        18475.17,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "CLYDE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        8814.27,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "ODESSA",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        11435.46,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "SAUQUOIT",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        8756.32,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "SOUND BEACH",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        2241.74,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "WARSAW",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        77885.03,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "CARMEL",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        7081.23,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "YORKTOWN HEIGHTS",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        7906.85,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "SPENCERPORT",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        5616.96,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "LYONS",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        6955.2,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "KIRKVILLE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        9632.21,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "BAYVILLE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        16965.57,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "ONEIDA",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        46042.12,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "CENTEREACH",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        123215.09,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "SYRACUSE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        2213.98,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "HILLSDALE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        17512.88,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "COHOES",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        2916.32,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "ANDOVER",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        6626.57,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "SLOATSBURG",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        6114.38,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "BROAD CHANNEL",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        1777.55,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "CANAJOHARIE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        11977.92,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "VERNON",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        1043.13,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "ROSE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        6322.21,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "EAST NORWICH",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        25648.49,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "BELLMORE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        10250.74,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "BRIARCLIFF MANOR",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        7143.66,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "CANDOR",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        3580.07,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "BEDFORD",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        2602.19,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "AUBURN",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        52689.08,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "ELMONT",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        72449.38,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "FARMINGDALE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        7422.8,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "JAMESPORT",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        20055.17,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "EAST PATCHOGUE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        1386.79,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "MALVERNE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        20338.19,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "YAPHANK",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        7531.87,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "HARRIMAN",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        6665.16,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "SHOKAN",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        2052.51,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "GERMANTOWN",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        1763.79,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "ORANGEBURG",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        2625.5,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "HARRISVILLE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        6570.64,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "EAST GREENBUSH",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        10245.12,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "CAMDEN",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        5109.1,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "PLEASANTVILLE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        729.72,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "VERONA BEACH",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        19066.76,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "RIDGE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        887.91,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "SIDNEY",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        2237.33,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "MILTON",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        11655.39,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "HAWTHORNE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        15735.45,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "SALT POINT",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        16075.56,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "PULASKI",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        25206.59,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "WYANDANCH",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        6787.97,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "ELMIRA HEIGHTS",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        3450.69,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "OWEGO",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        337.8,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "EAST MORICHES",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        44004.35,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "RENSSELAER",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        3037.29,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "MINOA",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        3743.35,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "LOCH SHELDRAKE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        4983.67,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "GARDEN CITY P",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        1033.43,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "WEST SENECA",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        1216.86,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "JOHNSONVILLE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        24042.12,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "NEW CITY",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        5327.8,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "KERHONKSON",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        12051.14,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "TARRYTOWN",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        25436.62,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "MT IVY",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        4531.6,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "STONE RIDGE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        906.51,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "EAST NASSAU",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        30641.75,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "OZONE PARK",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        10786.46,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "CIRCLEVILLE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        35117.02,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "EAST SYRACUSE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        5645.61,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "MILLERTON",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        10804.15,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "CASTLETON",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        971.86,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "HARPURSVILLE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        29302.31,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "WEST HEMPSTEAD",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        18800.99,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "POMONA",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        139854.91,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "ROME",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        21977.08,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "EAST NORTHPORT",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        20126.46,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "REGO PARK",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        2562.2,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "THERESA",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        15814.41,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "LAWRENCE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        15262.98,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "NANUET",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        19957.48,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "LOWVILLE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        22623.48,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "TABERG",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        14583.29,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "COOPERSTOWN",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        15156.98,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "ISLANDIA",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        43276.21,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "SELDEN",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        9288.25,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "NORTH CREEK",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        2008.92,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "THENDARA",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        3423.78,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "LONG ISLAND CIT",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        33189.4,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "CLAY",
+        "2014-12-20T00:00:00"
+      ],
+      [-75.63,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "POTSDAM",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        7032.32,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "MONTICELLO",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        4979.02,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "EDMESTON",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        244.42,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "AU SABLE FORKS",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        36501.25,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "SENECA FALLS",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        1619.88,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "VARYSBURG",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        5185.36,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "JACKSONVILLE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        8243.77,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "MONTEZUMA",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        8006.64,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "PORT CRANE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        2970.75,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "PINE BUSH",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        14761.44,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "COLD SPRING",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        1102.07,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "BAYSIDE HILLS",
+        "2014-12-20T00:00:00"
+      ],
+      [-112.1,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "BAYPORT",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        31436.17,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "NORTH BABYLON",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        3216.51,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "ROSENDALE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        5195.05,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "GUILDERLAND CENTER",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        4642.05,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "KEW GARDENS",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        7906.69,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "CROSS RIVER",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        7624.02,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "BREEZY POINT",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        7763.2,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "WESTPORT",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        217.38,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "TUCKAHOE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        11524.92,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "SAG HARBOR",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        4006.53,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "FLY CREEK",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        182314.13,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "BOHEMIA",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        10922.68,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "LA FAYETTE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        850.93,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "W SAND LAKE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        7693.83,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "NEW YORK MILLS",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        3293.61,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "WHEATLEY HEIGHTS",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        24557.46,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "SAUGERTIES",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        3128.61,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "LITTLE YORK",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        1771.5,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "STONY BROOK",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        86294.96,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "ELMHURST",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        19446.35,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "CLIFTON PARK",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        109164.55,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "DE",
+        "NEW CASTLE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        12773.18,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "SLATERVILLE SPRINGS",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        461.18,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "LONG IS CITY",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        267061.87,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "ALBANY",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        10901.41,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "MORRISVILLE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        5142.61,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "POLAND",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        74314.85,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "PELHAM",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        25835.08,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "ROSLYN",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        5868.68,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "INTERLAKEN",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        4964.09,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "GREENE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        3561.15,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "SOUTH RICHMOND HILL",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        9603.13,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "HAMPTON BAYS",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        1882.2,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "VERPLANCK",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        8321.94,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "MALTA",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        3661.83,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "STILLWATER",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        21070.42,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "SARANAC LAKE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        2767.48,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "CONESUS",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        3607.02,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "TUPPER LAKE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        6792.8,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "SPRINGFIELD GARDENS",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        7867.31,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "RICHFIELD SPRNG",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        93157.49,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "WEST BABYLON",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        11821,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "GANSEVOORT",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        7475.95,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "CHESTERTOWN",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        1760.57,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "MODENA",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        11840.29,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "HOLLIS",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        274.27,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "SALAMANCA",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        5771.59,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "WORCESTER",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        26889.95,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "MASTIC",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        20306.09,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "GREENLAWN",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        19600.44,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "CARTHAGE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        5644.63,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "MONTOUR FALLS",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        24778.23,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "SPRING VALLEY",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        1409.4,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "GLENS FALLS",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        4562.77,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "PORT EWEN",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        1267.76,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "REDFORD",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        5803.9,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "LARCHMONT",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        76562.36,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "MIDDLETOWN",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        1292.44,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "MONTAUK",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        30394.54,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "HOWARD BEACH",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        18308.57,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "MILLER PLACE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        13394.56,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "PATTERSON",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        7822.69,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "SOUTHOLD",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        35808.6,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "FRANKLIN SQUARE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        2103,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "WOODBOURNE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        9027.66,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "ROTTERDAM",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        1887.07,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "DANSVILLE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        6625.15,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "SHRUB OAK",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        413.32,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "DE",
+        "BEAR",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        7850.23,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "CORTLAND",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        195115.17,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "JAMAICA",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        99478.1,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "HOLTSVILLE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        5398.22,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "WEST HAVERSTRAW",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        4977.66,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "ALTAMONT",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        5791.7,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "PORT JEFFERSON",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        22194.71,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "MONTROSE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        7208.91,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "FORT PLAIN",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        17330.74,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "CORAM",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        1574.23,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "NORTH SALEM",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        2588.58,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "PHOENICIA",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        2873.7,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "HECTOR",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        1267.85,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "SHERRILL",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        680.28,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "EAGLE BRIDGE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        473.92,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "DOBBS FERRY",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        18653.93,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "ELMSFORD",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        370655.93,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "YONKERS",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        3866.44,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "ARMONK",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        1637.01,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "LAURENS",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        20589.85,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "BELLEROSE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        8298.93,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "FREEVILLE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        1140.71,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "GOLDENS BRIDGE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        20652.36,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "CENTRAL ISLIP",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        14915.2,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "MELVILLE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        253205.52,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "DE",
+        "CLAYMONT",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        4825.79,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "PUTNAM VALLEY",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        2060.27,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "MILLWOOD",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        948.79,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "CUBA",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        5445.03,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "WATERLOO",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        5059.57,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "VALATIE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        17674.08,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "HIGHLAND",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        24350.79,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "HOPEWELL JUNCTION",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        4621.92,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "LAKE PEEKSKILL",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        3959.08,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "HOOSICK FALLS",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        13470.9,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "EASTPORT",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        4315.64,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "ADAMS",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        7840.1,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "CENTRAL VALLEY",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        244.48,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "LOCKE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        13622.16,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "HORSEHEADS",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        2124.92,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "EAST MARION",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        850.75,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "BALLSTON LAKE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        1739.31,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "EAST QUOGUE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        6133.29,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "JEFFERSON VALLEY",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        83659.13,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "THORNWOOD",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        21377.44,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "EAST ELMHURST",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        5369.64,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "DOVER PLAINS",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        9807.98,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "RED CREEK",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        54561.74,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "GLEN COVE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        149443.18,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "FLUSHING",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        25302.31,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "LIVERPOOL",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        6909.02,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "NIAGARA FALLS",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        4514.21,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "WURTSBORO",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        61785.64,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "PEEKSKILL",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        6420.84,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "SHOREHAM",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        51417.26,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "LYNBROOK",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        12259.51,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "BRIDGEWATER",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        87102.26,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "AMSTERDAM",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        2297.79,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "CLINTONDALE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        251.5,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "ALBION",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        21240.39,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "HEWLETT",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        15924.2,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "POUGHQUAG",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        9990.24,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "BEAVER DAMS",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        5484.59,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "PLEASANT VALLEY",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        928.27,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "GREENVILLE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        10621.35,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "BIG FLATS",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        3336.96,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "GLOVERSVILLE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        2165.48,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "ATLANTIC BEACH",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        28620.85,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "HAUPPAUGE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        24498.12,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "MIDDLE ISLAND",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        5397.31,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "WINGDALE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        239.51,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "STAMFORD",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        7334.42,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "WOLCOTT",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        60186.7,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "NEW HYDE PARK",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        10542.05,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "EAST ROCKAWAY",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        1202.95,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "BERLIN",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        13684.42,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "JOHNSON CITY",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        63479.57,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "FISHKILL",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        10358.34,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "SELKIRK",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        1226.41,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "SOUTH HEMPSTEAD",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        58067.24,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "RICHMOND HILL",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        1679.13,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "BRIGHTWATERS",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        42300.21,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "GENEVA",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        19309.01,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "WOODSIDE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        1548.82,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "UNIONVILLE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        12851.35,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "KINGS PARK",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        6241.81,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "WATERFORD",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        11806.48,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "CROGHAN",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        6869.7,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "OYSTER BAY",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        16964.43,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "BRONXVILLE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        1398.7,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "KATONAH",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        10110.45,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "CHITTENANGO",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        21186.91,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "ALBERTSON",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        1076.08,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "MERIDALE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        11382.89,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "OXFORD",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        846.92,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "ROCK HILL",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        6092.78,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "DE",
+        "SEAFORD",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        24806.95,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "DE",
+        "WILMINGTON",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        2237.49,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "BEDFORD HILLS",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        1376.84,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "GLENHAM",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        26194.82,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "CENTRAL SQUARE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        18809.76,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "FARMINGVILLE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        3050.13,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "OLD WESTBURY",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        13466.55,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "RYE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        1619.3,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "HUNTINGTN STA",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        354.88,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "ANNANDALE ON HUDSON",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        1474,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "CHEMUNG",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        10422.37,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "PLATTSBURGH",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        17775.09,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "ISLIP TERRACE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        3489.64,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "CENTER MORICHES",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        10311.48,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "WESTMORELAND",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        96695.08,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "MAHOPAC",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        28264.15,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "CANASTOTA",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        396661.36,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "POUGHKEEPSIE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        2658.16,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "PALMYRA",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        31824.77,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "CAMILLUS",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        1161.22,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "PERU",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        20452.31,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "MANLIUS",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        254963.64,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "HICKSVILLE",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        2309.5,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "WOODBURY",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        12997.48,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "ROOSEVELT",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        3809.67,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "WOODHAVEN",
+        "2014-12-20T00:00:00"
+      ],
+      [
+        7352.34,
+        "NORTHEAST",
+        "Middle Atlantic",
+        "NY",
+        "ISLIP",
+        "2014-12-20T00:00:00"
+      ]
+    ],
+    "extraColumns": [],
+    "attribColumns": [
+      "SUB REGION",
+      "STATE",
+      "CITY_SIMPLE",
+      "RELATIVE WEEKS DESC"
+    ],
+    "measureColumns": [
+      "DOLLARS",
+      "REGION"
+    ],
+    "columnDataTypes": {
+      "DOLLARS": 0,
+      "REGION": 1,
+      "SUB REGION": 1,
+      "STATE": 1,
+      "CITY_SIMPLE": 1,
+      "RELATIVE WEEKS DESC": 4
+    }
+  },
+  "isServedFromSessionCache": false,
+  "isServedFromServerCache": false,
+  "reportExecutionDuration": 18,
+  "uniqueLabelValues": [{
+      "resultData": [{
+          "REGION": "NORTHEAST"
+        },
+        {
+          "REGION": "WEST"
+        }
+      ],
+      "requestedAttrib": "REGION",
+      "primaryColumnNames": [
+        "REGION"
+      ],
+      "propertyMapping": {
+        "name": [
+          "REGION"
+        ],
+        "color": [
+          "REGION"
+        ]
+      },
+      "numOfRows": 2
+    },
+    {
+      "resultData": [{
+          "SUB REGION": "Middle Atlantic"
+        },
+        {
+          "SUB REGION": "Pacific"
+        }
+      ],
+      "requestedAttrib": "SUB REGION",
+      "primaryColumnNames": [
+        "SUB REGION"
+      ],
+      "propertyMapping": {
+        "name": [
+          "SUB REGION"
+        ],
+        "color": [
+          "SUB REGION"
+        ]
+      },
+      "numOfRows": 2
+    },
+    {
+      "resultData": [{
+          "STATE": "DE"
+        },
+        {
+          "STATE": "CA"
+        },
+        {
+          "STATE": "NY"
+        }
+      ],
+      "requestedAttrib": "STATE",
+      "primaryColumnNames": [
+        "STATE"
+      ],
+      "propertyMapping": {
+        "name": [
+          "STATE"
+        ],
+        "color": [
+          "STATE"
+        ]
+      },
+      "numOfRows": 3
+    },
+    {
+      "resultData": [{
+          "CITY_SIMPLE": "ACCORD"
+        },
+        {
+          "CITY_SIMPLE": "ADAMS"
+        },
+        {
+          "CITY_SIMPLE": "AIRMONT"
+        },
+        {
+          "CITY_SIMPLE": "ALBANY"
+        },
+        {
+          "CITY_SIMPLE": "ALBERTSON"
+        },
+        {
+          "CITY_SIMPLE": "ALBION"
+        },
+        {
+          "CITY_SIMPLE": "ALDER CREEK"
+        },
+        {
+          "CITY_SIMPLE": "ALFRED"
+        },
+        {
+          "CITY_SIMPLE": "ALTAMONT"
+        },
+        {
+          "CITY_SIMPLE": "ALTMAR"
+        },
+        {
+          "CITY_SIMPLE": "AMAGANSETT"
+        },
+        {
+          "CITY_SIMPLE": "AMENIA"
+        },
+        {
+          "CITY_SIMPLE": "AMHERST"
+        },
+        {
+          "CITY_SIMPLE": "AMITYVILLE"
+        },
+        {
+          "CITY_SIMPLE": "AMSTERDAM"
+        },
+        {
+          "CITY_SIMPLE": "ANDOVER"
+        },
+        {
+          "CITY_SIMPLE": "ANNANDALE ON HUDSON"
+        },
+        {
+          "CITY_SIMPLE": "ARDSLEY"
+        },
+        {
+          "CITY_SIMPLE": "ARMONK"
+        },
+        {
+          "CITY_SIMPLE": "ASTORIA"
+        },
+        {
+          "CITY_SIMPLE": "ATLANTIC BEACH"
+        },
+        {
+          "CITY_SIMPLE": "ATTICA"
+        },
+        {
+          "CITY_SIMPLE": "AU SABLE FORKS"
+        },
+        {
+          "CITY_SIMPLE": "AUBURN"
+        },
+        {
+          "CITY_SIMPLE": "AVON"
+        },
+        {
+          "CITY_SIMPLE": "BABYLON"
+        },
+        {
+          "CITY_SIMPLE": "BALDWIN"
+        },
+        {
+          "CITY_SIMPLE": "BALDWIN PLACE"
+        },
+        {
+          "CITY_SIMPLE": "BALDWINSVILLE"
+        },
+        {
+          "CITY_SIMPLE": "BALLSTON LAKE"
+        },
+        {
+          "CITY_SIMPLE": "BALLSTON SPA"
+        },
+        {
+          "CITY_SIMPLE": "BARDONIA"
+        },
+        {
+          "CITY_SIMPLE": "BARNEVELD"
+        },
+        {
+          "CITY_SIMPLE": "BARRYVILLE"
+        },
+        {
+          "CITY_SIMPLE": "BATAVIA"
+        },
+        {
+          "CITY_SIMPLE": "BATH"
+        },
+        {
+          "CITY_SIMPLE": "BAY SHORE"
+        },
+        {
+          "CITY_SIMPLE": "BAYPORT"
+        },
+        {
+          "CITY_SIMPLE": "BAYSIDE"
+        },
+        {
+          "CITY_SIMPLE": "BAYSIDE HILLS"
+        },
+        {
+          "CITY_SIMPLE": "BAYVILLE"
+        },
+        {
+          "CITY_SIMPLE": "BEACON"
+        },
+        {
+          "CITY_SIMPLE": "BEAR"
+        },
+        {
+          "CITY_SIMPLE": "BEAVER DAMS"
+        },
+        {
+          "CITY_SIMPLE": "BEDFORD"
+        },
+        {
+          "CITY_SIMPLE": "BEDFORD HILLS"
+        },
+        {
+          "CITY_SIMPLE": "BELLEROSE"
+        },
+        {
+          "CITY_SIMPLE": "BELLEVILLE"
+        },
+        {
+          "CITY_SIMPLE": "BELLMORE"
+        },
+        {
+          "CITY_SIMPLE": "BELLPORT"
+        },
+        {
+          "CITY_SIMPLE": "BERLIN"
+        },
+        {
+          "CITY_SIMPLE": "BETHPAGE"
+        },
+        {
+          "CITY_SIMPLE": "BIG FLATS"
+        },
+        {
+          "CITY_SIMPLE": "BINGHAMTON"
+        },
+        {
+          "CITY_SIMPLE": "BLAUVELT"
+        },
+        {
+          "CITY_SIMPLE": "BLOOMFIELD"
+        },
+        {
+          "CITY_SIMPLE": "BLOOMINGBURG"
+        },
+        {
+          "CITY_SIMPLE": "BLUE POINT"
+        },
+        {
+          "CITY_SIMPLE": "BOHEMIA"
+        },
+        {
+          "CITY_SIMPLE": "BOICEVILLE"
+        },
+        {
+          "CITY_SIMPLE": "BOLIVAR"
+        },
+        {
+          "CITY_SIMPLE": "BOONVILLE"
+        },
+        {
+          "CITY_SIMPLE": "BREESPORT"
+        },
+        {
+          "CITY_SIMPLE": "BREEZY POINT"
+        },
+        {
+          "CITY_SIMPLE": "BRENTWOOD"
+        },
+        {
+          "CITY_SIMPLE": "BREWERTON"
+        },
+        {
+          "CITY_SIMPLE": "BREWSTER"
+        },
+        {
+          "CITY_SIMPLE": "BRIARCLIFF MANOR"
+        },
+        {
+          "CITY_SIMPLE": "BRIDGEHAMPTON"
+        },
+        {
+          "CITY_SIMPLE": "BRIDGEWATER"
+        },
+        {
+          "CITY_SIMPLE": "BRIGHTWATERS"
+        },
+        {
+          "CITY_SIMPLE": "BROAD CHANNEL"
+        },
+        {
+          "CITY_SIMPLE": "BRONX"
+        },
+        {
+          "CITY_SIMPLE": "BRONXVILLE"
+        },
+        {
+          "CITY_SIMPLE": "BROOKHAVEN"
+        },
+        {
+          "CITY_SIMPLE": "BROOKLYN"
+        },
+        {
+          "CITY_SIMPLE": "BUCHANAN"
+        },
+        {
+          "CITY_SIMPLE": "BUFFALO"
+        },
+        {
+          "CITY_SIMPLE": "BURDETT"
+        },
+        {
+          "CITY_SIMPLE": "BURLINGHAM"
+        },
+        {
+          "CITY_SIMPLE": "CAIRO"
+        },
+        {
+          "CITY_SIMPLE": "CALVERTON"
+        },
+        {
+          "CITY_SIMPLE": "CAMBRIA HEIGHTS"
+        },
+        {
+          "CITY_SIMPLE": "CAMDEN"
+        },
+        {
+          "CITY_SIMPLE": "CAMILLUS"
+        },
+        {
+          "CITY_SIMPLE": "CAMPBELL"
+        },
+        {
+          "CITY_SIMPLE": "CAMPBELL HALL"
+        },
+        {
+          "CITY_SIMPLE": "CANAJOHARIE"
+        },
+        {
+          "CITY_SIMPLE": "CANANDAIGUA"
+        },
+        {
+          "CITY_SIMPLE": "CANASTOTA"
+        },
+        {
+          "CITY_SIMPLE": "CANDOR"
+        },
+        {
+          "CITY_SIMPLE": "CAPE VINCENT"
+        },
+        {
+          "CITY_SIMPLE": "CARLE PLACE"
+        },
+        {
+          "CITY_SIMPLE": "CARMEL"
+        },
+        {
+          "CITY_SIMPLE": "CARTHAGE"
+        },
+        {
+          "CITY_SIMPLE": "CASTLETON"
+        },
+        {
+          "CITY_SIMPLE": "CATSKILL"
+        },
+        {
+          "CITY_SIMPLE": "CAYUTA"
+        },
+        {
+          "CITY_SIMPLE": "CEDARHURST"
+        },
+        {
+          "CITY_SIMPLE": "CENTER MORICHES"
+        },
+        {
+          "CITY_SIMPLE": "CENTEREACH"
+        },
+        {
+          "CITY_SIMPLE": "CENTERPORT"
+        },
+        {
+          "CITY_SIMPLE": "CENTRAL ISLIP"
+        },
+        {
+          "CITY_SIMPLE": "CENTRAL SQUARE"
+        },
+        {
+          "CITY_SIMPLE": "CENTRAL VALLEY"
+        },
+        {
+          "CITY_SIMPLE": "CHAMPLAIN"
+        },
+        {
+          "CITY_SIMPLE": "CHAPPAQUA"
+        },
+        {
+          "CITY_SIMPLE": "CHATHAM"
+        },
+        {
+          "CITY_SIMPLE": "CHEMUNG"
+        },
+        {
+          "CITY_SIMPLE": "CHESTER"
+        },
+        {
+          "CITY_SIMPLE": "CHESTERTOWN"
+        },
+        {
+          "CITY_SIMPLE": "CHESTNUT RIDGE"
+        },
+        {
+          "CITY_SIMPLE": "CHITTENANGO"
+        },
+        {
+          "CITY_SIMPLE": "CICERO"
+        },
+        {
+          "CITY_SIMPLE": "CIRCLEVILLE"
+        },
+        {
+          "CITY_SIMPLE": "CLAY"
+        },
+        {
+          "CITY_SIMPLE": "CLAYMONT"
+        },
+        {
+          "CITY_SIMPLE": "CLAYTON"
+        },
+        {
+          "CITY_SIMPLE": "CLIFTON PARK"
+        },
+        {
+          "CITY_SIMPLE": "CLINTON"
+        },
+        {
+          "CITY_SIMPLE": "CLINTONDALE"
+        },
+        {
+          "CITY_SIMPLE": "CLYDE"
+        },
+        {
+          "CITY_SIMPLE": "COHOES"
+        },
+        {
+          "CITY_SIMPLE": "COLD SPRING"
+        },
+        {
+          "CITY_SIMPLE": "COLD SPRING HARBOR"
+        },
+        {
+          "CITY_SIMPLE": "COLLEGE POINT"
+        },
+        {
+          "CITY_SIMPLE": "COMMACK"
+        },
+        {
+          "CITY_SIMPLE": "CONESUS"
+        },
+        {
+          "CITY_SIMPLE": "CONGERS"
+        },
+        {
+          "CITY_SIMPLE": "CONKLIN"
+        },
+        {
+          "CITY_SIMPLE": "CONSTABLEVILLE"
+        },
+        {
+          "CITY_SIMPLE": "CONSTANTIA"
+        },
+        {
+          "CITY_SIMPLE": "COOPERSTOWN"
+        },
+        {
+          "CITY_SIMPLE": "COPAKE"
+        },
+        {
+          "CITY_SIMPLE": "COPENHAGEN"
+        },
+        {
+          "CITY_SIMPLE": "COPIAGUE"
+        },
+        {
+          "CITY_SIMPLE": "CORAM"
+        },
+        {
+          "CITY_SIMPLE": "CORNING"
+        },
+        {
+          "CITY_SIMPLE": "CORONA"
+        },
+        {
+          "CITY_SIMPLE": "CORTLAND"
+        },
+        {
+          "CITY_SIMPLE": "CORTLANDT MANOR"
+        },
+        {
+          "CITY_SIMPLE": "COXSACKIE"
+        },
+        {
+          "CITY_SIMPLE": "CROGHAN"
+        },
+        {
+          "CITY_SIMPLE": "CROSS RIVER"
+        },
+        {
+          "CITY_SIMPLE": "CROTON FALLS"
+        },
+        {
+          "CITY_SIMPLE": "CROTON ON HUDSON"
+        },
+        {
+          "CITY_SIMPLE": "CUBA"
+        },
+        {
+          "CITY_SIMPLE": "CUDDEBACKVILLE"
+        },
+        {
+          "CITY_SIMPLE": "CUTCHOGUE"
+        },
+        {
+          "CITY_SIMPLE": "DALTON"
+        },
+        {
+          "CITY_SIMPLE": "DANNEMORA"
+        },
+        {
+          "CITY_SIMPLE": "DANSVILLE"
+        },
+        {
+          "CITY_SIMPLE": "DEER PARK"
+        },
+        {
+          "CITY_SIMPLE": "DELMAR"
+        },
+        {
+          "CITY_SIMPLE": "DEWITT"
+        },
+        {
+          "CITY_SIMPLE": "DEXTER"
+        },
+        {
+          "CITY_SIMPLE": "DIX HILLS"
+        },
+        {
+          "CITY_SIMPLE": "DOBBS FERRY"
+        },
+        {
+          "CITY_SIMPLE": "DOLGEVILLE"
+        },
+        {
+          "CITY_SIMPLE": "DOVER PLAINS"
+        },
+        {
+          "CITY_SIMPLE": "DOWNSVILLE"
+        },
+        {
+          "CITY_SIMPLE": "DUANESBURG"
+        },
+        {
+          "CITY_SIMPLE": "DUNDEE"
+        },
+        {
+          "CITY_SIMPLE": "E GREENBUSH"
+        },
+        {
+          "CITY_SIMPLE": "EAGLE BRIDGE"
+        },
+        {
+          "CITY_SIMPLE": "EAST ATLANTIC BEACH"
+        },
+        {
+          "CITY_SIMPLE": "EAST ELMHURST"
+        },
+        {
+          "CITY_SIMPLE": "EAST GREENBUSH"
+        },
+        {
+          "CITY_SIMPLE": "EAST HAMPTON"
+        },
+        {
+          "CITY_SIMPLE": "EAST ISLIP"
+        },
+        {
+          "CITY_SIMPLE": "EAST MARION"
+        },
+        {
+          "CITY_SIMPLE": "EAST MEADOW"
+        },
+        {
+          "CITY_SIMPLE": "EAST MORICHES"
+        },
+        {
+          "CITY_SIMPLE": "EAST NASSAU"
+        },
+        {
+          "CITY_SIMPLE": "EAST NORTHPORT"
+        },
+        {
+          "CITY_SIMPLE": "EAST NORWICH"
+        },
+        {
+          "CITY_SIMPLE": "EAST PATCHOGUE"
+        },
+        {
+          "CITY_SIMPLE": "EAST QUOGUE"
+        },
+        {
+          "CITY_SIMPLE": "EAST ROCHESTER"
+        },
+        {
+          "CITY_SIMPLE": "EAST ROCKAWAY"
+        },
+        {
+          "CITY_SIMPLE": "EAST SETAUKET"
+        },
+        {
+          "CITY_SIMPLE": "EAST SYRACUSE"
+        },
+        {
+          "CITY_SIMPLE": "EASTCHESTER"
+        },
+        {
+          "CITY_SIMPLE": "EASTPORT"
+        },
+        {
+          "CITY_SIMPLE": "EDDYVILLE"
+        },
+        {
+          "CITY_SIMPLE": "EDMESTON"
+        },
+        {
+          "CITY_SIMPLE": "ELIZABETHTOWN"
+        },
+        {
+          "CITY_SIMPLE": "ELMHURST"
+        },
+        {
+          "CITY_SIMPLE": "ELMIRA"
+        },
+        {
+          "CITY_SIMPLE": "ELMIRA HEIGHTS"
+        },
+        {
+          "CITY_SIMPLE": "ELMONT"
+        },
+        {
+          "CITY_SIMPLE": "ELMSFORD"
+        },
+        {
+          "CITY_SIMPLE": "ENDICOTT"
+        },
+        {
+          "CITY_SIMPLE": "ENDWELL"
+        },
+        {
+          "CITY_SIMPLE": "ESPERANCE"
+        },
+        {
+          "CITY_SIMPLE": "FAIRPORT"
+        },
+        {
+          "CITY_SIMPLE": "FAR ROCKAWAY"
+        },
+        {
+          "CITY_SIMPLE": "FARMINGDALE"
+        },
+        {
+          "CITY_SIMPLE": "FARMINGVILLE"
+        },
+        {
+          "CITY_SIMPLE": "FAYETTEVILLE"
+        },
+        {
+          "CITY_SIMPLE": "FISHKILL"
+        },
+        {
+          "CITY_SIMPLE": "FLANDERS"
+        },
+        {
+          "CITY_SIMPLE": "FLORAL PARK"
+        },
+        {
+          "CITY_SIMPLE": "FLORIDA"
+        },
+        {
+          "CITY_SIMPLE": "FLUSHING"
+        },
+        {
+          "CITY_SIMPLE": "FLY CREEK"
+        },
+        {
+          "CITY_SIMPLE": "FOREST HILLS"
+        },
+        {
+          "CITY_SIMPLE": "FORT EDWARD"
+        },
+        {
+          "CITY_SIMPLE": "FORT MONTGOMERY"
+        },
+        {
+          "CITY_SIMPLE": "FORT PLAIN"
+        },
+        {
+          "CITY_SIMPLE": "FRANKLIN SQUARE"
+        },
+        {
+          "CITY_SIMPLE": "FREEPORT"
+        },
+        {
+          "CITY_SIMPLE": "FREEVILLE"
+        },
+        {
+          "CITY_SIMPLE": "FRESH MEADOWS"
+        },
+        {
+          "CITY_SIMPLE": "FREWSBURG"
+        },
+        {
+          "CITY_SIMPLE": "FULTON"
+        },
+        {
+          "CITY_SIMPLE": "FULTONVILLE"
+        },
+        {
+          "CITY_SIMPLE": "GANSEVOORT"
+        },
+        {
+          "CITY_SIMPLE": "GARDEN CITY"
+        },
+        {
+          "CITY_SIMPLE": "GARDEN CITY P"
+        },
+        {
+          "CITY_SIMPLE": "GARNERVILLE"
+        },
+        {
+          "CITY_SIMPLE": "GARRATTSVILLE"
+        },
+        {
+          "CITY_SIMPLE": "GARRISON"
+        },
+        {
+          "CITY_SIMPLE": "GENEVA"
+        },
+        {
+          "CITY_SIMPLE": "GERMANTOWN"
+        },
+        {
+          "CITY_SIMPLE": "GLEN COVE"
+        },
+        {
+          "CITY_SIMPLE": "GLEN HEAD"
+        },
+        {
+          "CITY_SIMPLE": "GLEN OAKS"
+        },
+        {
+          "CITY_SIMPLE": "GLENDALE"
+        },
+        {
+          "CITY_SIMPLE": "GLENHAM"
+        },
+        {
+          "CITY_SIMPLE": "GLENS FALLS"
+        },
+        {
+          "CITY_SIMPLE": "GLENVILLE"
+        },
+        {
+          "CITY_SIMPLE": "GLOVERSVILLE"
+        },
+        {
+          "CITY_SIMPLE": "GOLDENS BRIDGE"
+        },
+        {
+          "CITY_SIMPLE": "GOSHEN"
+        },
+        {
+          "CITY_SIMPLE": "GREAT NECK"
+        },
+        {
+          "CITY_SIMPLE": "GREEN ISLAND"
+        },
+        {
+          "CITY_SIMPLE": "GREENE"
+        },
+        {
+          "CITY_SIMPLE": "GREENLAWN"
+        },
+        {
+          "CITY_SIMPLE": "GREENPORT"
+        },
+        {
+          "CITY_SIMPLE": "GREENVILLE"
+        },
+        {
+          "CITY_SIMPLE": "GREENWICH"
+        },
+        {
+          "CITY_SIMPLE": "GREENWOOD LAKE"
+        },
+        {
+          "CITY_SIMPLE": "GUILDERLAND CENTER"
+        },
+        {
+          "CITY_SIMPLE": "HAMBURG"
+        },
+        {
+          "CITY_SIMPLE": "HAMILTON"
+        },
+        {
+          "CITY_SIMPLE": "HAMMONDSPORT"
+        },
+        {
+          "CITY_SIMPLE": "HAMPTON BAYS"
+        },
+        {
+          "CITY_SIMPLE": "HARPURSVILLE"
+        },
+        {
+          "CITY_SIMPLE": "HARRIMAN"
+        },
+        {
+          "CITY_SIMPLE": "HARRISON"
+        },
+        {
+          "CITY_SIMPLE": "HARRISVILLE"
+        },
+        {
+          "CITY_SIMPLE": "HARTSDALE"
+        },
+        {
+          "CITY_SIMPLE": "HASTINGS ON HUDSON"
+        },
+        {
+          "CITY_SIMPLE": "HAUPPAUGE"
+        },
+        {
+          "CITY_SIMPLE": "HAVERSTRAW"
+        },
+        {
+          "CITY_SIMPLE": "HAWTHORNE"
+        },
+        {
+          "CITY_SIMPLE": "HECTOR"
+        },
+        {
+          "CITY_SIMPLE": "HEMPSTEAD"
+        },
+        {
+          "CITY_SIMPLE": "HERKIMER"
+        },
+        {
+          "CITY_SIMPLE": "HEWLETT"
+        },
+        {
+          "CITY_SIMPLE": "HICKSVILLE"
+        },
+        {
+          "CITY_SIMPLE": "HIGHLAND"
+        },
+        {
+          "CITY_SIMPLE": "HIGHLAND FALLS"
+        },
+        {
+          "CITY_SIMPLE": "HILLSDALE"
+        },
+        {
+          "CITY_SIMPLE": "HOGANSBURG"
+        },
+        {
+          "CITY_SIMPLE": "HOLBROOK"
+        },
+        {
+          "CITY_SIMPLE": "HOLLIS"
+        },
+        {
+          "CITY_SIMPLE": "HOLTSVILLE"
+        },
+        {
+          "CITY_SIMPLE": "HOOSICK FALLS"
+        },
+        {
+          "CITY_SIMPLE": "HOPEWELL JCT"
+        },
+        {
+          "CITY_SIMPLE": "HOPEWELL JUNCTION"
+        },
+        {
+          "CITY_SIMPLE": "HORNELL"
+        },
+        {
+          "CITY_SIMPLE": "HORSEHEADS"
+        },
+        {
+          "CITY_SIMPLE": "HOWARD BEACH"
+        },
+        {
+          "CITY_SIMPLE": "HUDSON"
+        },
+        {
+          "CITY_SIMPLE": "HUDSON FALLS"
+        },
+        {
+          "CITY_SIMPLE": "HUNTINGTN STA"
+        },
+        {
+          "CITY_SIMPLE": "HUNTINGTON"
+        },
+        {
+          "CITY_SIMPLE": "HUNTINGTON STATION"
+        },
+        {
+          "CITY_SIMPLE": "HYDE PARK"
+        },
+        {
+          "CITY_SIMPLE": "ILION"
+        },
+        {
+          "CITY_SIMPLE": "INDIAN LAKE"
+        },
+        {
+          "CITY_SIMPLE": "INTERLAKEN"
+        },
+        {
+          "CITY_SIMPLE": "INWOOD"
+        },
+        {
+          "CITY_SIMPLE": "IRVINGTON"
+        },
+        {
+          "CITY_SIMPLE": "ISLANDIA"
+        },
+        {
+          "CITY_SIMPLE": "ISLIP"
+        },
+        {
+          "CITY_SIMPLE": "ISLIP TERRACE"
+        },
+        {
+          "CITY_SIMPLE": "ITHACA"
+        },
+        {
+          "CITY_SIMPLE": "JACKSON HEIGHTS"
+        },
+        {
+          "CITY_SIMPLE": "JACKSONVILLE"
+        },
+        {
+          "CITY_SIMPLE": "JAMAICA"
+        },
+        {
+          "CITY_SIMPLE": "JAMESPORT"
+        },
+        {
+          "CITY_SIMPLE": "JEFFERSON VALLEY"
+        },
+        {
+          "CITY_SIMPLE": "JERICHO"
+        },
+        {
+          "CITY_SIMPLE": "JOHNSON CITY"
+        },
+        {
+          "CITY_SIMPLE": "JOHNSONVILLE"
+        },
+        {
+          "CITY_SIMPLE": "JOHNSTOWN"
+        },
+        {
+          "CITY_SIMPLE": "KATONAH"
+        },
+        {
+          "CITY_SIMPLE": "KEESEVILLE"
+        },
+        {
+          "CITY_SIMPLE": "KEESVILLE"
+        },
+        {
+          "CITY_SIMPLE": "KERHONKSON"
+        },
+        {
+          "CITY_SIMPLE": "KEW GARDENS"
+        },
+        {
+          "CITY_SIMPLE": "KINGS PARK"
+        },
+        {
+          "CITY_SIMPLE": "KINGSTON"
+        },
+        {
+          "CITY_SIMPLE": "KIRKVILLE"
+        },
+        {
+          "CITY_SIMPLE": "LA FAYETTE"
+        },
+        {
+          "CITY_SIMPLE": "LAFARGEVILLE"
+        },
+        {
+          "CITY_SIMPLE": "LAGRANGEVILLE"
+        },
+        {
+          "CITY_SIMPLE": "LAKE GEORGE"
+        },
+        {
+          "CITY_SIMPLE": "LAKE GROVE"
+        },
+        {
+          "CITY_SIMPLE": "LAKE PEEKSKILL"
+        },
+        {
+          "CITY_SIMPLE": "LAKE PLACID"
+        },
+        {
+          "CITY_SIMPLE": "LAKE RONKONKOMA"
+        },
+        {
+          "CITY_SIMPLE": "LAKEVILLE"
+        },
+        {
+          "CITY_SIMPLE": "LARCHMONT"
+        },
+        {
+          "CITY_SIMPLE": "LATHAM"
+        },
+        {
+          "CITY_SIMPLE": "LAUREL"
+        },
+        {
+          "CITY_SIMPLE": "LAURELTON"
+        },
+        {
+          "CITY_SIMPLE": "LAURENS"
+        },
+        {
+          "CITY_SIMPLE": "LAWRENCE"
+        },
+        {
+          "CITY_SIMPLE": "LEVITTOWN"
+        },
+        {
+          "CITY_SIMPLE": "LIBERTY"
+        },
+        {
+          "CITY_SIMPLE": "LINCOLNDALE"
+        },
+        {
+          "CITY_SIMPLE": "LINDENHURST"
+        },
+        {
+          "CITY_SIMPLE": "LITTLE FALLS"
+        },
+        {
+          "CITY_SIMPLE": "LITTLE NECK"
+        },
+        {
+          "CITY_SIMPLE": "LITTLE YORK"
+        },
+        {
+          "CITY_SIMPLE": "LIVERPOOL"
+        },
+        {
+          "CITY_SIMPLE": "LOCH SHELDRAKE"
+        },
+        {
+          "CITY_SIMPLE": "LOCKE"
+        },
+        {
+          "CITY_SIMPLE": "LOCKPORT"
+        },
+        {
+          "CITY_SIMPLE": "LOCUST VALLEY"
+        },
+        {
+          "CITY_SIMPLE": "LONG BEACH"
+        },
+        {
+          "CITY_SIMPLE": "LONG IS CITY"
+        },
+        {
+          "CITY_SIMPLE": "LONG ISLAND CIT"
+        },
+        {
+          "CITY_SIMPLE": "LONG ISLAND CITY"
+        },
+        {
+          "CITY_SIMPLE": "LONG ISLAND CTY"
+        },
+        {
+          "CITY_SIMPLE": "LONG LAKE"
+        },
+        {
+          "CITY_SIMPLE": "LOUDONVILLE"
+        },
+        {
+          "CITY_SIMPLE": "LOWVILLE"
+        },
+        {
+          "CITY_SIMPLE": "LYNBROOK"
+        },
+        {
+          "CITY_SIMPLE": "LYONS"
+        },
+        {
+          "CITY_SIMPLE": "MACEDON"
+        },
+        {
+          "CITY_SIMPLE": "MAHOPAC"
+        },
+        {
+          "CITY_SIMPLE": "MAHOPAC FALLS"
+        },
+        {
+          "CITY_SIMPLE": "MALDEN ON HUDSON"
+        },
+        {
+          "CITY_SIMPLE": "MALONE"
+        },
+        {
+          "CITY_SIMPLE": "MALTA"
+        },
+        {
+          "CITY_SIMPLE": "MALVERNE"
+        },
+        {
+          "CITY_SIMPLE": "MAMARONECK"
+        },
+        {
+          "CITY_SIMPLE": "MANHASSET"
+        },
+        {
+          "CITY_SIMPLE": "MANLIUS"
+        },
+        {
+          "CITY_SIMPLE": "MARLBORO"
+        },
+        {
+          "CITY_SIMPLE": "MARYLAND"
+        },
+        {
+          "CITY_SIMPLE": "MASPETH"
+        },
+        {
+          "CITY_SIMPLE": "MASSAPEQUA"
+        },
+        {
+          "CITY_SIMPLE": "MASSAPEQUA PARK"
+        },
+        {
+          "CITY_SIMPLE": "MASSENA"
+        },
+        {
+          "CITY_SIMPLE": "MASTIC"
+        },
+        {
+          "CITY_SIMPLE": "MASTIC BEACH"
+        },
+        {
+          "CITY_SIMPLE": "MATTITUCK"
+        },
+        {
+          "CITY_SIMPLE": "MATTYDALE"
+        },
+        {
+          "CITY_SIMPLE": "MAYBROOK"
+        },
+        {
+          "CITY_SIMPLE": "MAYFIELD"
+        },
+        {
+          "CITY_SIMPLE": "MECHANICVILLE"
+        },
+        {
+          "CITY_SIMPLE": "MEDFORD"
+        },
+        {
+          "CITY_SIMPLE": "MELVILLE"
+        },
+        {
+          "CITY_SIMPLE": "MERIDALE"
+        },
+        {
+          "CITY_SIMPLE": "MERRICK"
+        },
+        {
+          "CITY_SIMPLE": "MIDDLE ISLAND"
+        },
+        {
+          "CITY_SIMPLE": "MIDDLE VILLAGE"
+        },
+        {
+          "CITY_SIMPLE": "MIDDLEBURGH"
+        },
+        {
+          "CITY_SIMPLE": "MIDDLETOWN"
+        },
+        {
+          "CITY_SIMPLE": "MILFORD"
+        },
+        {
+          "CITY_SIMPLE": "MILLER PLACE"
+        },
+        {
+          "CITY_SIMPLE": "MILLERTON"
+        },
+        {
+          "CITY_SIMPLE": "MILLWOOD"
+        },
+        {
+          "CITY_SIMPLE": "MILTON"
+        },
+        {
+          "CITY_SIMPLE": "MINEOLA"
+        },
+        {
+          "CITY_SIMPLE": "MINOA"
+        },
+        {
+          "CITY_SIMPLE": "MODENA"
+        },
+        {
+          "CITY_SIMPLE": "MOHAWK"
+        },
+        {
+          "CITY_SIMPLE": "MOHEGAN LAKE"
+        },
+        {
+          "CITY_SIMPLE": "MONROE"
+        },
+        {
+          "CITY_SIMPLE": "MONSEY"
+        },
+        {
+          "CITY_SIMPLE": "MONTAUK"
+        },
+        {
+          "CITY_SIMPLE": "MONTEZUMA"
+        },
+        {
+          "CITY_SIMPLE": "MONTGOMERY"
+        },
+        {
+          "CITY_SIMPLE": "MONTICELLO"
+        },
+        {
+          "CITY_SIMPLE": "MONTOUR FALLS"
+        },
+        {
+          "CITY_SIMPLE": "MONTROSE"
+        },
+        {
+          "CITY_SIMPLE": "MORRISVILLE"
+        },
+        {
+          "CITY_SIMPLE": "MOUNT KISCO"
+        },
+        {
+          "CITY_SIMPLE": "MOUNT MORRIS"
+        },
+        {
+          "CITY_SIMPLE": "MOUNT SINAI"
+        },
+        {
+          "CITY_SIMPLE": "MOUNT UPTON"
+        },
+        {
+          "CITY_SIMPLE": "MOUNT VERNON"
+        },
+        {
+          "CITY_SIMPLE": "MT IVY"
+        },
+        {
+          "CITY_SIMPLE": "NANUET"
+        },
+        {
+          "CITY_SIMPLE": "NASSAU"
+        },
+        {
+          "CITY_SIMPLE": "NESCONSET"
+        },
+        {
+          "CITY_SIMPLE": "NEW CASTLE"
+        },
+        {
+          "CITY_SIMPLE": "NEW CITY"
+        },
+        {
+          "CITY_SIMPLE": "NEW HAMPTON"
+        },
+        {
+          "CITY_SIMPLE": "NEW HARTFORD"
+        },
+        {
+          "CITY_SIMPLE": "NEW HYDE PARK"
+        },
+        {
+          "CITY_SIMPLE": "NEW LEBANON"
+        },
+        {
+          "CITY_SIMPLE": "NEW PALTZ"
+        },
+        {
+          "CITY_SIMPLE": "NEW ROCHELLE"
+        },
+        {
+          "CITY_SIMPLE": "NEW WINDSOR"
+        },
+        {
+          "CITY_SIMPLE": "NEW YORK"
+        },
+        {
+          "CITY_SIMPLE": "NEW YORK MILLS"
+        },
+        {
+          "CITY_SIMPLE": "NEWARK"
+        },
+        {
+          "CITY_SIMPLE": "NEWBURGH"
+        },
+        {
+          "CITY_SIMPLE": "NEWFIELD"
+        },
+        {
+          "CITY_SIMPLE": "NIAGARA FALLS"
+        },
+        {
+          "CITY_SIMPLE": "NICHOLS"
+        },
+        {
+          "CITY_SIMPLE": "NISKAYUNA"
+        },
+        {
+          "CITY_SIMPLE": "NIVERVILLE"
+        },
+        {
+          "CITY_SIMPLE": "NORTH BABYLON"
+        },
+        {
+          "CITY_SIMPLE": "NORTH BALDWIN"
+        },
+        {
+          "CITY_SIMPLE": "NORTH BELLMORE"
+        },
+        {
+          "CITY_SIMPLE": "NORTH CREEK"
+        },
+        {
+          "CITY_SIMPLE": "NORTH HOLLYWOOD"
+        },
+        {
+          "CITY_SIMPLE": "NORTH SALEM"
+        },
+        {
+          "CITY_SIMPLE": "NORTH SYRACUSE"
+        },
+        {
+          "CITY_SIMPLE": "NORTHPORT"
+        },
+        {
+          "CITY_SIMPLE": "NORWICH"
+        },
+        {
+          "CITY_SIMPLE": "NYACK"
+        },
+        {
+          "CITY_SIMPLE": "OAKDALE"
+        },
+        {
+          "CITY_SIMPLE": "OAKLAND GARDENS"
+        },
+        {
+          "CITY_SIMPLE": "OCEAN BEACH"
+        },
+        {
+          "CITY_SIMPLE": "OCEANSIDE"
+        },
+        {
+          "CITY_SIMPLE": "ODESSA"
+        },
+        {
+          "CITY_SIMPLE": "OGDENSBURG"
+        },
+        {
+          "CITY_SIMPLE": "OLD WESTBURY"
+        },
+        {
+          "CITY_SIMPLE": "ONEIDA"
+        },
+        {
+          "CITY_SIMPLE": "ONEONTA"
+        },
+        {
+          "CITY_SIMPLE": "ONTARIO"
+        },
+        {
+          "CITY_SIMPLE": "ORANGEBURG"
+        },
+        {
+          "CITY_SIMPLE": "ORISKANY"
+        },
+        {
+          "CITY_SIMPLE": "OSSINING"
+        },
+        {
+          "CITY_SIMPLE": "OSWEGO"
+        },
+        {
+          "CITY_SIMPLE": "OTISVILLE"
+        },
+        {
+          "CITY_SIMPLE": "OVID"
+        },
+        {
+          "CITY_SIMPLE": "OWEGO"
+        },
+        {
+          "CITY_SIMPLE": "OXFORD"
+        },
+        {
+          "CITY_SIMPLE": "OYSTER BAY"
+        },
+        {
+          "CITY_SIMPLE": "OZONE PARK"
+        },
+        {
+          "CITY_SIMPLE": "PAINTED POST"
+        },
+        {
+          "CITY_SIMPLE": "PALENVILLE"
+        },
+        {
+          "CITY_SIMPLE": "PALMYRA"
+        },
+        {
+          "CITY_SIMPLE": "PATCHOGUE"
+        },
+        {
+          "CITY_SIMPLE": "PATTERSON"
+        },
+        {
+          "CITY_SIMPLE": "PATTERSONVILLE"
+        },
+        {
+          "CITY_SIMPLE": "PAWLING"
+        },
+        {
+          "CITY_SIMPLE": "PEARL RIVER"
+        },
+        {
+          "CITY_SIMPLE": "PEEKSKILL"
+        },
+        {
+          "CITY_SIMPLE": "PELHAM"
+        },
+        {
+          "CITY_SIMPLE": "PENFIELD"
+        },
+        {
+          "CITY_SIMPLE": "PENN YAN"
+        },
+        {
+          "CITY_SIMPLE": "PERU"
+        },
+        {
+          "CITY_SIMPLE": "PHOENICIA"
+        },
+        {
+          "CITY_SIMPLE": "PHOENIX"
+        },
+        {
+          "CITY_SIMPLE": "PINE BUSH"
+        },
+        {
+          "CITY_SIMPLE": "PINE HILL"
+        },
+        {
+          "CITY_SIMPLE": "PINE VALLEY"
+        },
+        {
+          "CITY_SIMPLE": "PITTSFORD"
+        },
+        {
+          "CITY_SIMPLE": "PLAINVIEW"
+        },
+        {
+          "CITY_SIMPLE": "PLATTSBURGH"
+        },
+        {
+          "CITY_SIMPLE": "PLEASANT VALLEY"
+        },
+        {
+          "CITY_SIMPLE": "PLEASANTVILLE"
+        },
+        {
+          "CITY_SIMPLE": "POESTENKILL"
+        },
+        {
+          "CITY_SIMPLE": "POINT LOOKOUT"
+        },
+        {
+          "CITY_SIMPLE": "POLAND"
+        },
+        {
+          "CITY_SIMPLE": "POMONA"
+        },
+        {
+          "CITY_SIMPLE": "PORT CHESTER"
+        },
+        {
+          "CITY_SIMPLE": "PORT CRANE"
+        },
+        {
+          "CITY_SIMPLE": "PORT EWEN"
+        },
+        {
+          "CITY_SIMPLE": "PORT JEFF STA"
+        },
+        {
+          "CITY_SIMPLE": "PORT JEFFERSON"
+        },
+        {
+          "CITY_SIMPLE": "PORT JEFFERSON STATION"
+        },
+        {
+          "CITY_SIMPLE": "PORT JERVIS"
+        },
+        {
+          "CITY_SIMPLE": "PORT WASHINGTON"
+        },
+        {
+          "CITY_SIMPLE": "PORTVILLE"
+        },
+        {
+          "CITY_SIMPLE": "POTSDAM"
+        },
+        {
+          "CITY_SIMPLE": "POTTERSVILLE"
+        },
+        {
+          "CITY_SIMPLE": "POUGHKEEPSIE"
+        },
+        {
+          "CITY_SIMPLE": "POUGHQUAG"
+        },
+        {
+          "CITY_SIMPLE": "POUND RIDGE"
+        },
+        {
+          "CITY_SIMPLE": "PULASKI"
+        },
+        {
+          "CITY_SIMPLE": "PURCHASE"
+        },
+        {
+          "CITY_SIMPLE": "PUTNAM VALLEY"
+        },
+        {
+          "CITY_SIMPLE": "QUEENS VILLAGE"
+        },
+        {
+          "CITY_SIMPLE": "QUEENSBURY"
+        },
+        {
+          "CITY_SIMPLE": "RAVENA"
+        },
+        {
+          "CITY_SIMPLE": "RED CREEK"
+        },
+        {
+          "CITY_SIMPLE": "RED HOOK"
+        },
+        {
+          "CITY_SIMPLE": "REDFORD"
+        },
+        {
+          "CITY_SIMPLE": "REDWOOD"
+        },
+        {
+          "CITY_SIMPLE": "REGO PARK"
+        },
+        {
+          "CITY_SIMPLE": "REMSEN"
+        },
+        {
+          "CITY_SIMPLE": "RENSSELAER"
+        },
+        {
+          "CITY_SIMPLE": "RHINEBECK"
+        },
+        {
+          "CITY_SIMPLE": "RICHFIELD SPRNG"
+        },
+        {
+          "CITY_SIMPLE": "RICHLAND"
+        },
+        {
+          "CITY_SIMPLE": "RICHMOND HILL"
+        },
+        {
+          "CITY_SIMPLE": "RICHMONDVILLE"
+        },
+        {
+          "CITY_SIMPLE": "RIDGE"
+        },
+        {
+          "CITY_SIMPLE": "RIDGEWOOD"
+        },
+        {
+          "CITY_SIMPLE": "RIVERHEAD"
+        },
+        {
+          "CITY_SIMPLE": "ROCHESTER"
+        },
+        {
+          "CITY_SIMPLE": "ROCK HILL"
+        },
+        {
+          "CITY_SIMPLE": "ROCKAWAY PARK"
+        },
+        {
+          "CITY_SIMPLE": "ROCKVILLE CENTRE"
+        },
+        {
+          "CITY_SIMPLE": "ROCKY POINT"
+        },
+        {
+          "CITY_SIMPLE": "ROME"
+        },
+        {
+          "CITY_SIMPLE": "ROMULUS"
+        },
+        {
+          "CITY_SIMPLE": "RONKONKOMA"
+        },
+        {
+          "CITY_SIMPLE": "ROOSEVELT"
+        },
+        {
+          "CITY_SIMPLE": "ROOSEVELT ISL"
+        },
+        {
+          "CITY_SIMPLE": "ROOSEVELT ISLAN"
+        },
+        {
+          "CITY_SIMPLE": "ROSE"
+        },
+        {
+          "CITY_SIMPLE": "ROSENDALE"
+        },
+        {
+          "CITY_SIMPLE": "ROSLYN"
+        },
+        {
+          "CITY_SIMPLE": "ROSLYN HEIGHTS"
+        },
+        {
+          "CITY_SIMPLE": "ROTTERDAM"
+        },
+        {
+          "CITY_SIMPLE": "RYE"
+        },
+        {
+          "CITY_SIMPLE": "RYE BROOK"
+        },
+        {
+          "CITY_SIMPLE": "SACKETS HARBOR"
+        },
+        {
+          "CITY_SIMPLE": "SAG HARBOR"
+        },
+        {
+          "CITY_SIMPLE": "SAINT JAMES"
+        },
+        {
+          "CITY_SIMPLE": "SALAMANCA"
+        },
+        {
+          "CITY_SIMPLE": "SALT POINT"
+        },
+        {
+          "CITY_SIMPLE": "SANDY CREEK"
+        },
+        {
+          "CITY_SIMPLE": "SANGERFIELD"
+        },
+        {
+          "CITY_SIMPLE": "SARANAC LAKE"
+        },
+        {
+          "CITY_SIMPLE": "SARATOGA SPGS"
+        },
+        {
+          "CITY_SIMPLE": "SARATOGA SPRINGS"
+        },
+        {
+          "CITY_SIMPLE": "SAUGERTIES"
+        },
+        {
+          "CITY_SIMPLE": "SAUQUOIT"
+        },
+        {
+          "CITY_SIMPLE": "SAYVILLE"
+        },
+        {
+          "CITY_SIMPLE": "SCARSDALE"
+        },
+        {
+          "CITY_SIMPLE": "SCHAGHTICOKE"
+        },
+        {
+          "CITY_SIMPLE": "SCHENECTADY"
+        },
+        {
+          "CITY_SIMPLE": "SCHOHARIE"
+        },
+        {
+          "CITY_SIMPLE": "SCHROON LAKE"
+        },
+        {
+          "CITY_SIMPLE": "SCHUYLER LAKE"
+        },
+        {
+          "CITY_SIMPLE": "SCIO"
+        },
+        {
+          "CITY_SIMPLE": "SCOTTSVILLE"
+        },
+        {
+          "CITY_SIMPLE": "SEA CLIFF"
+        },
+        {
+          "CITY_SIMPLE": "SEAFORD"
+        },
+        {
+          "CITY_SIMPLE": "SELDEN"
+        },
+        {
+          "CITY_SIMPLE": "SELKIRK"
+        },
+        {
+          "CITY_SIMPLE": "SENECA FALLS"
+        },
+        {
+          "CITY_SIMPLE": "SHELTER IS HT"
+        },
+        {
+          "CITY_SIMPLE": "SHELTER ISLAND"
+        },
+        {
+          "CITY_SIMPLE": "SHERRILL"
+        },
+        {
+          "CITY_SIMPLE": "SHIRLEY"
+        },
+        {
+          "CITY_SIMPLE": "SHOKAN"
+        },
+        {
+          "CITY_SIMPLE": "SHOREHAM"
+        },
+        {
+          "CITY_SIMPLE": "SHRUB OAK"
+        },
+        {
+          "CITY_SIMPLE": "SIDNEY"
+        },
+        {
+          "CITY_SIMPLE": "SKANEATELES"
+        },
+        {
+          "CITY_SIMPLE": "SLATE HILL"
+        },
+        {
+          "CITY_SIMPLE": "SLATERVILLE SPRINGS"
+        },
+        {
+          "CITY_SIMPLE": "SLEEPY HOLLOW"
+        },
+        {
+          "CITY_SIMPLE": "SLOATSBURG"
+        },
+        {
+          "CITY_SIMPLE": "SMITHTOWN"
+        },
+        {
+          "CITY_SIMPLE": "SODUS"
+        },
+        {
+          "CITY_SIMPLE": "SOLVAY"
+        },
+        {
+          "CITY_SIMPLE": "SOMERS"
+        },
+        {
+          "CITY_SIMPLE": "SOUND BEACH"
+        },
+        {
+          "CITY_SIMPLE": "SOUTH GLENS FALLS"
+        },
+        {
+          "CITY_SIMPLE": "SOUTH HEMPSTEAD"
+        },
+        {
+          "CITY_SIMPLE": "SOUTH OZONE PAR"
+        },
+        {
+          "CITY_SIMPLE": "SOUTH OZONE PARK"
+        },
+        {
+          "CITY_SIMPLE": "SOUTH RICHMOND HILL"
+        },
+        {
+          "CITY_SIMPLE": "SOUTH SALEM"
+        },
+        {
+          "CITY_SIMPLE": "SOUTHAMPTON"
+        },
+        {
+          "CITY_SIMPLE": "SOUTHFIELDS"
+        },
+        {
+          "CITY_SIMPLE": "SOUTHOLD"
+        },
+        {
+          "CITY_SIMPLE": "SPENCERPORT"
+        },
+        {
+          "CITY_SIMPLE": "SPRING VALLEY"
+        },
+        {
+          "CITY_SIMPLE": "SPRINGFIELD GARDENS"
+        },
+        {
+          "CITY_SIMPLE": "STAATSBURG"
+        },
+        {
+          "CITY_SIMPLE": "STAMFORD"
+        },
+        {
+          "CITY_SIMPLE": "STANFORDVILLE"
+        },
+        {
+          "CITY_SIMPLE": "STAR LAKE"
+        },
+        {
+          "CITY_SIMPLE": "STATEN ISLAND"
+        },
+        {
+          "CITY_SIMPLE": "STEWART MANOR"
+        },
+        {
+          "CITY_SIMPLE": "STILLWATER"
+        },
+        {
+          "CITY_SIMPLE": "STITTVILLE"
+        },
+        {
+          "CITY_SIMPLE": "STONE RIDGE"
+        },
+        {
+          "CITY_SIMPLE": "STONY BROOK"
+        },
+        {
+          "CITY_SIMPLE": "STONY POINT"
+        },
+        {
+          "CITY_SIMPLE": "STORMVILLE"
+        },
+        {
+          "CITY_SIMPLE": "STOW"
+        },
+        {
+          "CITY_SIMPLE": "SUFFERN"
+        },
+        {
+          "CITY_SIMPLE": "SUNNYSIDE"
+        },
+        {
+          "CITY_SIMPLE": "SWAN LAKE"
+        },
+        {
+          "CITY_SIMPLE": "SYLVAN BEACH"
+        },
+        {
+          "CITY_SIMPLE": "SYOSSET"
+        },
+        {
+          "CITY_SIMPLE": "SYRACUSE"
+        },
+        {
+          "CITY_SIMPLE": "TABERG"
+        },
+        {
+          "CITY_SIMPLE": "TANNERSVILLE"
+        },
+        {
+          "CITY_SIMPLE": "TAPPAN"
+        },
+        {
+          "CITY_SIMPLE": "TARRYTOWN"
+        },
+        {
+          "CITY_SIMPLE": "THENDARA"
+        },
+        {
+          "CITY_SIMPLE": "THERESA"
+        },
+        {
+          "CITY_SIMPLE": "THORNWOOD"
+        },
+        {
+          "CITY_SIMPLE": "TICONDEROGA"
+        },
+        {
+          "CITY_SIMPLE": "TROY"
+        },
+        {
+          "CITY_SIMPLE": "TUCKAHOE"
+        },
+        {
+          "CITY_SIMPLE": "TULLY"
+        },
+        {
+          "CITY_SIMPLE": "TUPPER LAKE"
+        },
+        {
+          "CITY_SIMPLE": "UNIONDALE"
+        },
+        {
+          "CITY_SIMPLE": "UNIONVILLE"
+        },
+        {
+          "CITY_SIMPLE": "UTICA"
+        },
+        {
+          "CITY_SIMPLE": "VALATIE"
+        },
+        {
+          "CITY_SIMPLE": "VALHALLA"
+        },
+        {
+          "CITY_SIMPLE": "VALLEY COTTAGE"
+        },
+        {
+          "CITY_SIMPLE": "VALLEY STREAM"
+        },
+        {
+          "CITY_SIMPLE": "VAN ETTEN"
+        },
+        {
+          "CITY_SIMPLE": "VARYSBURG"
+        },
+        {
+          "CITY_SIMPLE": "VERBANK"
+        },
+        {
+          "CITY_SIMPLE": "VERNON"
+        },
+        {
+          "CITY_SIMPLE": "VERONA"
+        },
+        {
+          "CITY_SIMPLE": "VERONA BEACH"
+        },
+        {
+          "CITY_SIMPLE": "VERPLANCK"
+        },
+        {
+          "CITY_SIMPLE": "VOORHEESVILLE"
+        },
+        {
+          "CITY_SIMPLE": "W HAVERSTRAW"
+        },
+        {
+          "CITY_SIMPLE": "W SAND LAKE"
+        },
+        {
+          "CITY_SIMPLE": "WADING RIVER"
+        },
+        {
+          "CITY_SIMPLE": "WALDEN"
+        },
+        {
+          "CITY_SIMPLE": "WALKER VALLEY"
+        },
+        {
+          "CITY_SIMPLE": "WANTAGH"
+        },
+        {
+          "CITY_SIMPLE": "WAPPINGER FALLS"
+        },
+        {
+          "CITY_SIMPLE": "WAPPINGERS FALLS"
+        },
+        {
+          "CITY_SIMPLE": "WARRENSBURG"
+        },
+        {
+          "CITY_SIMPLE": "WARSAW"
+        },
+        {
+          "CITY_SIMPLE": "WARWICK"
+        },
+        {
+          "CITY_SIMPLE": "WASHINGTON MILLS"
+        },
+        {
+          "CITY_SIMPLE": "WASHINGTONVILLE"
+        },
+        {
+          "CITY_SIMPLE": "WATERFORD"
+        },
+        {
+          "CITY_SIMPLE": "WATERLOO"
+        },
+        {
+          "CITY_SIMPLE": "WATERTOWN"
+        },
+        {
+          "CITY_SIMPLE": "WATERVLIET"
+        },
+        {
+          "CITY_SIMPLE": "WEBSTER"
+        },
+        {
+          "CITY_SIMPLE": "WEEDSPORT"
+        },
+        {
+          "CITY_SIMPLE": "WELLSBURG"
+        },
+        {
+          "CITY_SIMPLE": "WEST BABYLON"
+        },
+        {
+          "CITY_SIMPLE": "WEST CHAZY"
+        },
+        {
+          "CITY_SIMPLE": "WEST COXSACKIE"
+        },
+        {
+          "CITY_SIMPLE": "WEST HARRISON"
+        },
+        {
+          "CITY_SIMPLE": "WEST HAVERSTRAW"
+        },
+        {
+          "CITY_SIMPLE": "WEST HEMPSTEAD"
+        },
+        {
+          "CITY_SIMPLE": "WEST HENRIETTA"
+        },
+        {
+          "CITY_SIMPLE": "WEST ISLIP"
+        },
+        {
+          "CITY_SIMPLE": "WEST NYACK"
+        },
+        {
+          "CITY_SIMPLE": "WEST SENECA"
+        },
+        {
+          "CITY_SIMPLE": "WESTBROOKVILLE"
+        },
+        {
+          "CITY_SIMPLE": "WESTBURY"
+        },
+        {
+          "CITY_SIMPLE": "WESTERLO"
+        },
+        {
+          "CITY_SIMPLE": "WESTERNVILLE"
+        },
+        {
+          "CITY_SIMPLE": "WESTHAMPTON"
+        },
+        {
+          "CITY_SIMPLE": "WESTHAMPTON BEACH"
+        },
+        {
+          "CITY_SIMPLE": "WESTMORELAND"
+        },
+        {
+          "CITY_SIMPLE": "WESTPORT"
+        },
+        {
+          "CITY_SIMPLE": "WHEATLEY HEIGHTS"
+        },
+        {
+          "CITY_SIMPLE": "WHITE PLAINS"
+        },
+        {
+          "CITY_SIMPLE": "WHITEHALL"
+        },
+        {
+          "CITY_SIMPLE": "WHITESTONE"
+        },
+        {
+          "CITY_SIMPLE": "WILLIAMSON"
+        },
+        {
+          "CITY_SIMPLE": "WILLISTON PARK"
+        },
+        {
+          "CITY_SIMPLE": "WILMINGTON"
+        },
+        {
+          "CITY_SIMPLE": "WINGDALE"
+        },
+        {
+          "CITY_SIMPLE": "WOLCOTT"
+        },
+        {
+          "CITY_SIMPLE": "WOODBOURNE"
+        },
+        {
+          "CITY_SIMPLE": "WOODBURY"
+        },
+        {
+          "CITY_SIMPLE": "WOODHAVEN"
+        },
+        {
+          "CITY_SIMPLE": "WOODRIDGE"
+        },
+        {
+          "CITY_SIMPLE": "WOODSIDE"
+        },
+        {
+          "CITY_SIMPLE": "WORCESTER"
+        },
+        {
+          "CITY_SIMPLE": "WURTSBORO"
+        },
+        {
+          "CITY_SIMPLE": "WYANDANCH"
+        },
+        {
+          "CITY_SIMPLE": "WYNANTSKILL"
+        },
+        {
+          "CITY_SIMPLE": "YAPHANK"
+        },
+        {
+          "CITY_SIMPLE": "YONKERS"
+        },
+        {
+          "CITY_SIMPLE": "YORKTOWN HEIGHTS"
+        }
+      ],
+      "requestedAttrib": "CITY_SIMPLE",
+      "primaryColumnNames": [
+        "CITY_SIMPLE"
+      ],
+      "propertyMapping": {
+        "name": [
+          "CITY_SIMPLE"
+        ],
+        "color": [
+          "CITY_SIMPLE"
+        ]
+      },
+      "numOfRows": 692
+    }
+  ]
+}

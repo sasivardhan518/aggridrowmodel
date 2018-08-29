@@ -1,0 +1,42 @@
+/* You can add global styles to this file, and also import other style files */
+
+.renderjson a {
+  text-decoration: none;
+}
+
+.renderjson .disclosure {
+  color: crimson;
+  font-size: 150%;
+}
+
+.renderjson .syntax {
+  color: grey;
+}
+
+.renderjson .string {
+  color: red;
+}
+
+.renderjson .number {
+  color: cyan;
+}
+
+.renderjson .boolean {
+  color: plum;
+}
+
+.renderjson .key {
+  color: black;
+}
+
+.renderjson .keyword {
+  color: lightgoldenrodyellow;
+}
+
+.renderjson .object.syntax {
+  color: lightseagreen;
+}
+
+.renderjson .array.syntax {
+  color: lightsalmon;
+}
